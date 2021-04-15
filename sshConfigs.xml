@@ -4,27 +4,6 @@
       <sshConfig authType="PASSWORD" host="192.168.1.101" id="25a88c3c-eb91-4180-9dde-aaa3c0b9b178" port="22" customName="Hadoop-1" nameFormat="CUSTOM" username="root">
         <option name="customName" value="Hadoop-1" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="192.168.1.103" id="cf801f2b-29d1-4e06-a5dd-f3115902f4ee" port="22" customName="Hadoop-3" nameFormat="CUSTOM" username="root">
-        <option name="customName" value="Hadoop-3" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="192.168.1.102" id="7e2db2d2-f207-411f-b23d-d4d1b8f53fe1" port="22" customName="Hadoop-2" nameFormat="CUSTOM" username="root">
-        <option name="customName" value="Hadoop-2" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" host="192.168.1.104" id="6771b265-6683-4fb4-8b2a-9847bf82f368" port="22" customName="Hadoop-4" nameFormat="CUSTOM" username="root">
-        <option name="customName" value="Hadoop-4" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.1.101" id="067fc1a7-f488-4bf2-b21a-08a3c84a3d39" port="22" customName="Hadoop-1" nameFormat="CUSTOM">
-        <option name="customName" value="Hadoop-1" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.1.103" id="8e639994-2253-44b4-91a3-0aba4d2181f9" port="22" customName="Hadoop-3" nameFormat="CUSTOM">
-        <option name="customName" value="Hadoop-3" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.1.102" id="60337781-27a3-443c-b8b1-c8e590a20241" port="22" customName="Hadoop-2" nameFormat="CUSTOM">
-        <option name="customName" value="Hadoop-2" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.1.104" id="746845d3-5e5f-4a1f-8d11-2bf28987e0bc" port="22" customName="Hadoop-4" nameFormat="CUSTOM">
-        <option name="customName" value="Hadoop-4" />
-      </sshConfig>
     </configs>
   </component>
 </application>
