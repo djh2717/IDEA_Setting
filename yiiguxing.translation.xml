@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="key By" />
       <item value="public" />
     </histories>
     <option name="languageScores">
@@ -11,6 +12,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1618019394376" />
+    <option name="lastTrimTime" value="1618574713694" />
   </component>
 </application>
