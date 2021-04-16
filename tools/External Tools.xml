@@ -1,0 +1,23 @@
+<toolSet name="External Tools">
+  <tool name="Javap -c" description="Decompile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Android\java\jdk1.8.0_171\bin\javap.exe" />
+      <option name="PARAMETERS" value="-c $FileNameWithoutAllExtensions$" />
+      <option name="WORKING_DIRECTORY" value="$OutputPath$/$FileDirRelativeToSourcepath$" />
+    </exec>
+  </tool>
+  <tool name="Javap -v" description="Decompile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Android\java\jdk1.8.0_171\bin\javap.exe" />
+      <option name="PARAMETERS" value="-v $FileNameWithoutAllExtensions$" />
+      <option name="WORKING_DIRECTORY" value="$OutputPath$/$FileDirRelativeToSourcepath$" />
+    </exec>
+  </tool>
+  <tool name="Javap -c -l " description="Decompile" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Android\java\jdk1.8.0_171\bin\javap.exe" />
+      <option name="PARAMETERS" value="-c -l $FileNameWithoutAllExtensions$" />
+      <option name="WORKING_DIRECTORY" value="$OutputPath$/$FileDirRelativeToSourcepath$" />
+    </exec>
+  </tool>
+</toolSet>

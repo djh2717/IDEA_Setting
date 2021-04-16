@@ -1,0 +1,13 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="styledDirectories" value="true" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isStyledDirectories" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="settingsSelectedTab" value="4" />
+    <option name="accentColor" value="416a9b" />
+    <option name="selectedTheme" value="NATIVE" />
+    <option name="userId" value="-30379d81:178b5edf38a:-8000" />
+  </component>
+</application>
