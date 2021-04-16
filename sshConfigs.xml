@@ -1,9 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="192.168.1.101" id="25a88c3c-eb91-4180-9dde-aaa3c0b9b178" port="22" customName="Hadoop-1" nameFormat="CUSTOM" username="root">
-        <option name="customName" value="Hadoop-1" />
-      </sshConfig>
-    </configs>
-  </component>
-</application>
