@@ -21,6 +21,5 @@
     <entry key="BSP.experimental.feature.enabled" value="false" />
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
-    <entry key="ide.new.stripes.ui" value="true" />
   </component>
 </application>
