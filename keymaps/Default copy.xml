@@ -151,10 +151,10 @@
   </action>
   <action id="EditorLineEndWithSelection" />
   <action id="EditorNextWord">
-    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="EditorPreviousWord">
-    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="EditorScrollToCenter" />
   <action id="EditorSelectWord">
