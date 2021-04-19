@@ -141,7 +141,7 @@
     <keyboard-shortcut first-keystroke="delete" />
   </action>
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="alt d" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
@@ -281,7 +281,7 @@
     <keyboard-shortcut first-keystroke="alt y" />
   </action>
   <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="alt q" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="alt e" />
