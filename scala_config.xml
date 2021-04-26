@@ -4,6 +4,7 @@
   </component>
   <component name="ScalaApplicationSettings">
     <option name="INTRODUCE_VARIABLE_EXPLICIT_TYPE" value="false" />
+    <option name="SPECIFY_RETURN_TYPE_EXPLICITLY" value="ADD" />
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
     <option name="SUGGEST_IN_EDITOR_DOC_RENDERING" value="false" />
   </component>
