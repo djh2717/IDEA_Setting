@@ -1,12 +1,23 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="$TranslateAndReplaceAction">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="Console.SplitLine" />
+  <action id="Console.TableResult.Reload" />
+  <action id="ContextRun">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="DatabaseView.PropertiesAction" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="Editor TranslateAndReplaceAction">
     <keyboard-shortcut first-keystroke="alt r" />
@@ -15,12 +26,24 @@
     <keyboard-shortcut first-keystroke="shift meta enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
-  <action id="EditorSelectWord" />
+  <action id="EditorContextInfo" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="FindNext" />
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="ImplementMethods">
+    <keyboard-shortcut first-keystroke="ctrl i" />
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="InsertLiveTemplate" />
   <action id="Jdbc.OpenEditor.Data">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -37,15 +60,32 @@
   <action id="OpenModuleSettings">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="OverrideMethods">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
   <action id="ProjectViewEditSource">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
+  <action id="Refresh" />
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
   <action id="ScalaConsole.Execute">
     <keyboard-shortcut first-keystroke="enter" />
@@ -56,6 +96,9 @@
   <action id="SearchEverywhere.NavigateToPrevGroup">
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
@@ -63,9 +106,17 @@
   <action id="Sql.EditParameter">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="Svn.RefreshWorkingCopies" />
   <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="Vcs.Log.Refresh" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
   <action id="ViewSource" />
+  <action id="ViewToolButtons">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
 </keymap>
