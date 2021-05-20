@@ -5,6 +5,7 @@
   <action id="$TranslateAndReplaceAction">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="CloseContent" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.SplitLine" />
   <action id="Console.TableResult.Reload" />
@@ -28,7 +29,7 @@
   </action>
   <action id="EditorContextInfo" />
   <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="alt w" />
+    <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="EditorSplitLine" />
   <action id="ExternalSystem.OpenConfig">
