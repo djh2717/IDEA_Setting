@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="String" />
       <item value="to String" />
       <item value="key By" />
       <item value="public" />
@@ -8,11 +9,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620185474593" />
+    <option name="lastTrimTime" value="1621476281511" />
   </component>
 </application>
