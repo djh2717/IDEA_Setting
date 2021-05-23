@@ -1,6 +1,6 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="$EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="$TranslateAndReplaceAction">
     <keyboard-shortcut first-keystroke="alt r" />
@@ -20,7 +20,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Editor EditorTranslateAction">
-    <keyboard-shortcut first-keystroke="alt t" />
+    <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="Editor TranslateAndReplaceAction">
     <keyboard-shortcut first-keystroke="alt r" />
@@ -46,6 +46,9 @@
   <action id="Github.PullRequest.Details.Reload" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoLine" />
+  <action id="GotoParagraph" />
+  <action id="GotoRow" />
   <action id="GuiDesigner.Duplicate" />
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="ctrl i" />
@@ -100,6 +103,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="ScalaConsole.Clean" />
   <action id="ScalaConsole.Execute">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
@@ -124,10 +128,14 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Svn.RefreshWorkingCopies" />
+  <action id="Terminal.ClearBuffer">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
   <action id="Terminal.SmartCommandExecution.Run" />
   <action id="TypeHierarchy">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt v" />
