@@ -6,6 +6,7 @@
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="CloseContent" />
+  <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.SplitLine" />
   <action id="Console.TableResult.Reload" />
@@ -13,6 +14,7 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
+  <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
@@ -28,6 +30,9 @@
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="EditorContextInfo" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
@@ -35,11 +40,13 @@
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="FindNext" />
   <action id="Github.PullRequest.Comments.Reload" />
   <action id="Github.PullRequest.Details.Reload" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GuiDesigner.Duplicate" />
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="ctrl i" />
     <keyboard-shortcut first-keystroke="meta i" />
@@ -69,7 +76,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="QuickJavaDoc">
-    <keyboard-shortcut first-keystroke="alt d" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
@@ -88,6 +95,7 @@
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
+  <action id="RunDashboard.CopyConfiguration" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
@@ -103,6 +111,10 @@
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
@@ -120,8 +132,11 @@
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="ViewToolButtons">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
