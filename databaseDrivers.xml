@@ -3,7 +3,7 @@
     <driver id="hive">
       <artifact />
       <library>
-        <url>file://$USER_HOME$/Desktop/hive-jdbc-2.1.1.jar</url>
+        <url>file://$USER_HOME$/Desktop/hive-jdbc-2.3.8.jar</url>
       </library>
     </driver>
     <driver id="mysql.8">
