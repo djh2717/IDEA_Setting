@@ -13,5 +13,10 @@
     <driver id="mysql">
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.46" />
     </driver>
+    <driver id="java.sql.Driver" name="User Driver" driver-class="com.cloudera.impala.jdbc41.Driver">
+      <library>
+        <url>file://$USER_HOME$/Downloads/lib/ImpalaJDBC41.jar</url>
+      </library>
+    </driver>
   </component>
 </application>
