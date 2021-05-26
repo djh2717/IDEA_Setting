@@ -3,7 +3,7 @@
     <driver id="hive" driver-class="com.cloudera.hive.jdbc4.HS2Driver">
       <artifact />
       <library>
-        <url>file://$USER_HOME$/Desktop/hive_jdbc_2.6.5.1007/HiveJDBC4.jar</url>
+        <url>file://$USER_HOME$/Downloads/lib/HiveJDBC4.jar</url>
       </library>
     </driver>
     <driver id="mysql.8">
