@@ -5,6 +5,7 @@
   <action id="$TranslateAndReplaceAction">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="BigDataTools.FindInEditor" />
   <action id="CloseContent" />
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
@@ -41,6 +42,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="Find" />
   <action id="FindNext" />
   <action id="Github.PullRequest.Comments.Reload" />
   <action id="Github.PullRequest.Details.Reload" />
@@ -93,7 +95,9 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
-  <action id="Replace" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
   <action id="Rerun" />
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
