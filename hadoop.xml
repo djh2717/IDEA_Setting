@@ -1,0 +1,40 @@
+<application>
+  <component name="HadoopSettings">
+    <option name="appAttemptColumns">
+      <list>
+        <option value="id" />
+        <option value="startTime" />
+        <option value="finishedTime" />
+        <option value="containerId" />
+        <option value="logsLink" />
+      </list>
+    </option>
+    <option name="applicationStates">
+      <set>
+        <option value="FINISHED" />
+        <option value="FAILED" />
+      </set>
+    </option>
+    <option name="configs">
+      <map>
+        <entry key="Hadoop connection@HadoopMonitoringConnections@-4282850060432265928">
+          <value>
+            <HadoopConfig>
+              <option name="applicationDetailsProportion" value="0.4578125" />
+              <option name="detailsAttemptsProportion" value="0.7451923" />
+              <option name="expandedTools">
+                <set>
+                  <option value="LocalLogs" />
+                </set>
+              </option>
+              <option name="logToContentProportion" value="0.26369494" />
+              <option name="scrollLogToBottom" value="true" />
+              <option name="selectedPage" value="Info" />
+            </HadoopConfig>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="dataUpdateIntervalMillis" value="10000" />
+  </component>
+</application>
