@@ -29,7 +29,7 @@
               </option>
               <option name="logToContentProportion" value="0.26369494" />
               <option name="scrollLogToBottom" value="true" />
-              <option name="selectedPage" value="Info" />
+              <option name="selectedPage" value="Nodes" />
             </HadoopConfig>
           </value>
         </entry>
