@@ -7,12 +7,28 @@
   </action>
   <action id="BigDataTools.FindInEditor" />
   <action id="CloseContent" />
+  <action id="CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta alt minus" />
+  </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta minus" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.SplitLine" />
   <action id="Console.TableResult.Reload" />
   <action id="ContextRun">
     <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="DSM.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ShowDiff" />
@@ -38,6 +54,25 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="meta alt equals" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta equals" />
+  </action>
+  <action id="ExternalSystem.CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="ExternalSystem.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="ExternalSystem.OpenConfig">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -52,6 +87,12 @@
   <action id="GotoParagraph" />
   <action id="GotoRow" />
   <action id="GuiDesigner.Duplicate" />
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
+  <action id="Images.Editor.ZoomOut">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
   <action id="ImplementMethods">
     <keyboard-shortcut first-keystroke="ctrl i" />
     <keyboard-shortcut first-keystroke="meta i" />
@@ -61,6 +102,12 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="KotlinShellExecute" />
+  <action id="Maven.CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="Maven.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -76,6 +123,12 @@
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="ctrl o" />
     <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="ProblemsView.CollapseAll">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="ProblemsView.ExpandAll">
+    <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="ProjectViewEditSource">
     <keyboard-shortcut first-keystroke="f4" />
