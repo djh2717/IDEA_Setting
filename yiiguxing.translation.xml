@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="close Quietly" />
       <item value="上报" />
       <item value="idle" />
       <item value="dwd car idle" />
@@ -18,7 +19,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="ENGLISH" value="10" />
         <entry key="GREEK" value="2" />
       </map>
     </option>

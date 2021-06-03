@@ -39,7 +39,30 @@
           <option name="port" value="-1" />
           <option name="uri" value="127.0.0.1:9092" />
         </ExtendedConnectionData>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="rootPath" value="rO0ABXQAAA==" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.bigdatatools.rfs.settings.local.RfsLocalConnectionData" />
+          <option name="groupId" value="RfsLocalConnectionGroup" />
+          <option name="innerId" value="Local@RfsLocalConnectionGroup@5058488095707531435" />
+          <option name="name" value="Local" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+        </ExtendedConnectionData>
       </list>
     </option>
+  </component>
+  <component name="RfsDownloadedStorageManager">
+    <option name="fileList">
+      <list>
+        <option value="______000000_0./000000_0" />
+        <option value="Pc__dc_2021_05_19_gz.gz/dc-2021-05-19.gz" />
+        <option value="_nTMt_k3Y_000000_0./000000_0" />
+        <option value="_IU__u000000_0./000000_0" />
+      </list>
+    </option>
+    <option name="mainDirPath" value="/private/var/folders/9c/q7bp1dg53msgm9d5pzyt3sq80000gn/T/HDFS-downloaded" />
   </component>
 </application>
