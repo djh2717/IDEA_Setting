@@ -5,6 +5,15 @@
   <action id="$TranslateAndReplaceAction">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateRunToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="BigDataTools.FindInEditor" />
   <action id="CloseContent" />
   <action id="CollapseAll">
@@ -33,6 +42,7 @@
   <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -77,6 +87,8 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
   <action id="Find" />
   <action id="FindNext" />
   <action id="Github.PullRequest.Comments.Reload" />
