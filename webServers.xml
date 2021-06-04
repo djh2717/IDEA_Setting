@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="c1c54576-3032-42f6-82c0-af441b18b62d" name="Hadoop-1" url="http://192.168.1.101">
+      <webServer id="c1c54576-3032-42f6-82c0-af441b18b62d" name="10.0.6.93" url="http://192.168.1.101">
         <fileTransfer accessType="SFTP" host="10.0.6.93" port="22" sshConfigId="a0505a88-235a-4f9b-a6ee-b456a30b6e24" sshConfig="root@10.0.6.93:22 password">
           <advancedOptions>
             <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
