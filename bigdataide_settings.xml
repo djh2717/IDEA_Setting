@@ -57,6 +57,8 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="Y_iIfb___part_1_25./part-1-25" />
+        <option value="plgW_bpart_3_2./part-3-2" />
         <option value="_0_i1t_flume_collect_kafka_data_1622786747990_text.text/flume_collect_kafka_data.1622786747990.text" />
         <option value="g__2_74__w_flume_collect_kafka_data_1622786445531_text.text/flume_collect_kafka_data.1622786445531.text" />
         <option value="_mD__9z_a_flume_collect_kafka_data_1622786070080_text.text/flume_collect_kafka_data.1622786070080.text" />
@@ -65,7 +67,6 @@
         <option value="_IU__u000000_0./000000_0" />
         <option value="_nTMt_k3Y_000000_0./000000_0" />
         <option value="Pc__dc_2021_05_19_gz.gz/dc-2021-05-19.gz" />
-        <option value="______000000_0./000000_0" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/9c/q7bp1dg53msgm9d5pzyt3sq80000gn/T/HDFS-downloaded" />

@@ -54,8 +54,10 @@
       <mapping pattern="HadoopCommand" type="PLAIN_TEXT" />
       <mapping pattern="LinuxCommand" type="PLAIN_TEXT" />
       <mapping pattern="valid-r-00000" type="PLAIN_TEXT" />
+      <mapping pattern="part-1-25" type="PLAIN_TEXT" />
       <mapping pattern="Port" type="PLAIN_TEXT" />
       <mapping pattern="testJob" type="PLAIN_TEXT" />
+      <mapping pattern="part-3-2" type="PLAIN_TEXT" />
       <mapping pattern="Command" type="PLAIN_TEXT" />
       <mapping pattern="canvas" type="PLAIN_TEXT" />
       <mapping pattern="HadoopPort" type="PLAIN_TEXT" />
