@@ -2,35 +2,10 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="c1c54576-3032-42f6-82c0-af441b18b62d" name="Hadoop-1" url="http://192.168.1.101">
-        <fileTransfer host="192.168.1.101" port="22" accessType="SFTP">
+        <fileTransfer accessType="SFTP" host="10.0.6.93" port="22" sshConfigId="a0505a88-235a-4f9b-a6ee-b456a30b6e24" sshConfig="root@10.0.6.93:22 password">
           <advancedOptions>
-            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="d8e23261-d0dd-41d8-80ec-335065f545f7" name="Hadoop-3" url="http://192.168.1.103">
-        <fileTransfer host="192.168.1.103" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="83910999-bb5c-4976-975d-f357af607e27" name="Hadoop-2" url="http://192.168.1.102">
-        <fileTransfer host="192.168.1.102" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="11b5ad3b-ad05-427c-80c3-bffaff7cad29" name="Hadoop-4" url="http://192.168.1.104">
-        <fileTransfer host="192.168.1.104" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
