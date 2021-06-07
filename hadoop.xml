@@ -15,6 +15,7 @@
           <value>
             <HadoopConfig>
               <option name="applicationDetailsProportion" value="0.63385415" />
+              <option name="applicationsLimit" />
               <option name="detailsAttemptsProportion" value="0.22065727" />
               <option name="expandedTools">
                 <set>
