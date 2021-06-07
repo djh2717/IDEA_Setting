@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="型" />
+      <item value="period" />
+      <item value="buried" />
+      <item value="dws buried point common data" />
       <item value="奇数" />
       <item value="close Quietly" />
       <item value="上报" />
@@ -19,13 +23,13 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="13" />
         <entry key="GREEK" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622451278627" />
+    <option name="lastTrimTime" value="1623050915878" />
   </component>
 </application>
