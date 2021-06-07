@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="credential type" />
       <item value="dws buried point wide table" />
       <item value="型" />
       <item value="period" />
@@ -24,8 +25,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
         <entry key="GREEK" value="2" />
       </map>
     </option>
