@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dws volume adjust" />
+      <item value="dimming" />
+      <item value="dws dimming" />
       <item value="dws login manner" />
       <item value="rounds" />
       <item value="dws local radio_" />
@@ -29,8 +32,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="21" />
+        <entry key="ENGLISH" value="22" />
+        <entry key="AFRIKAANS" value="1" />
         <entry key="GREEK" value="2" />
       </map>
     </option>
