@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rounds" />
       <item value="dws local radio_" />
       <item value="time period" />
       <item value="credential type" />
@@ -27,8 +28,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="GREEK" value="2" />
       </map>
     </option>
