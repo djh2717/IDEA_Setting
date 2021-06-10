@@ -20,6 +20,7 @@
               <option name="expandedTools">
                 <set>
                   <option value="LocalLogs" />
+                  <option value="Configuration" />
                 </set>
               </option>
               <option name="logToContentProportion" value="0.26369494" />
