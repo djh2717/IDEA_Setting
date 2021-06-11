@@ -57,16 +57,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="G81_______jarRepositories_xml.xml/jarRepositories.xml" />
-        <option value="I_klvT__9settings_xml.xml/settings.xml" />
-        <option value="x2_ER__sguiDesigner_xml.xml/uiDesigner.xml" />
-        <option value="vgU______sqldialects_xml.xml/sqldialects.xml" />
-        <option value="_xrsmartfox_info_xml.xml/smartfox_info.xml" />
-        <option value="W_Y__AOmisc_xml.xml/misc.xml" />
-        <option value="Ui_iRcompiler_xml.xml/compiler.xml" />
-        <option value="HBq_z_f_X_profiles_settings_xml.xml/profiles_settings.xml" />
-        <option value="9z____w_jNT_Project_Default_xml.xml/Project_Default.xml" />
+        <option value="co_V_settings_xml.xml/settings.xml" />
         <option value="_b_______xsimplelogger_properties.properties/simplelogger.properties" />
+        <option value="9z____w_jNT_Project_Default_xml.xml/Project_Default.xml" />
+        <option value="HBq_z_f_X_profiles_settings_xml.xml/profiles_settings.xml" />
+        <option value="Ui_iRcompiler_xml.xml/compiler.xml" />
+        <option value="W_Y__AOmisc_xml.xml/misc.xml" />
+        <option value="_xrsmartfox_info_xml.xml/smartfox_info.xml" />
+        <option value="vgU______sqldialects_xml.xml/sqldialects.xml" />
+        <option value="x2_ER__sguiDesigner_xml.xml/uiDesigner.xml" />
+        <option value="I_klvT__9settings_xml.xml/settings.xml" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/9c/q7bp1dg53msgm9d5pzyt3sq80000gn/T/HDFS-downloaded" />
