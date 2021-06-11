@@ -8,22 +8,22 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="tt" type="Markdown" />
-      <mapping pattern=".invalid-m-00000.crc" type="Native" />
       <mapping pattern=".flow-m-00000.crc" type="Native" />
+      <mapping pattern=".invalid-m-00000.crc" type="Native" />
       <mapping pattern=".valid-r-00000.crc" type="Native" />
-      <mapping pattern="regionservers" type="PLAIN_TEXT" />
       <mapping pattern="hiveCommand" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="regionservers" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="MrCommand" type="PLAIN_TEXT" />
-      <mapping pattern="isolate_snapshot_data" type="PLAIN_TEXT" />
       <mapping pattern=".error.log.crc" type="PLAIN_TEXT" />
+      <mapping pattern="isolate_snapshot_data" type="PLAIN_TEXT" />
       <mapping pattern=".part-r-00001.crc" type="PLAIN_TEXT" />
-      <mapping pattern="VimShortCut" type="PLAIN_TEXT" />
       <mapping pattern="cat" type="PLAIN_TEXT" />
+      <mapping pattern="VimShortCut" type="PLAIN_TEXT" />
       <mapping pattern="StartCommand" type="PLAIN_TEXT" />
-      <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="PlaceHolder" type="PLAIN_TEXT" />
+      <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="4" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping pattern="CityIdAndName" type="PLAIN_TEXT" />
@@ -67,8 +67,8 @@
       <mapping pattern=".part-m-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="part-m-00005" type="PLAIN_TEXT" />
       <mapping pattern="part-m-00009" type="PLAIN_TEXT" />
-      <mapping pattern="v-m-00000" type="PLAIN_TEXT" />
       <mapping pattern="._SUCCESS.crc" type="PLAIN_TEXT" />
+      <mapping pattern="v-m-00000" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="properies" type="PLAIN_TEXT" />
