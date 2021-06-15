@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="part-3-99" type="AUTO_DETECTED" />
       <mapping pattern="000000_0" type="AUTO_DETECTED" />
+      <mapping pattern="_metadata" type="AUTO_DETECTED" />
       <mapping ext="shell" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
