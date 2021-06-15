@@ -15,7 +15,9 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="BigDataTools.FindInEditor" />
-  <action id="CloseContent" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta escape" />
+  </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
