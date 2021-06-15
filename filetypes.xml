@@ -83,6 +83,7 @@
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping pattern="hive-conf" type="XML" />
       <mapping ext="cfg" type="XML" />
       <mapping pattern=".info.log.crc" type="YAML" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
