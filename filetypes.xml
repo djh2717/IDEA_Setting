@@ -4,6 +4,7 @@
       <mapping pattern="part-3-99" type="AUTO_DETECTED" />
       <mapping pattern="000000_0" type="AUTO_DETECTED" />
       <mapping pattern="_metadata" type="AUTO_DETECTED" />
+      <mapping pattern="slave01_8041" type="AUTO_DETECTED" />
       <mapping ext="shell" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
@@ -84,6 +85,7 @@
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <mapping ext="" type="PLAIN_TEXT" />
       <mapping pattern="hive-conf" type="XML" />
       <mapping ext="cfg" type="XML" />
       <mapping pattern=".info.log.crc" type="YAML" />
