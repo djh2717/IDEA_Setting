@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unrecognized" />
       <item value="ubertask" />
       <item value="dws volume adjust" />
       <item value="dimming" />
@@ -34,7 +35,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="ENGLISH" value="23" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="GREEK" value="2" />
@@ -42,6 +43,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623050915878" />
+    <option name="lastTrimTime" value="1624873305078" />
   </component>
 </application>
