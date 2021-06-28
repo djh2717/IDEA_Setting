@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="629" />
+    <option name="newTranslationDialogY" value="393" />
     <histories>
+      <item value="literal" />
       <item value="Unrecognized" />
       <item value="ubertask" />
       <item value="dws volume adjust" />
@@ -34,7 +37,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
+        <entry key="CHINESE" value="24" />
         <entry key="ENGLISH" value="23" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="LATIN" value="1" />
