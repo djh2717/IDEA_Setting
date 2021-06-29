@@ -1,6 +1,10 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="HiveQL" injector-id="java">
+      <display-name>JdbcInputFormatBuilder.setQuery (org.apache.flink.connector.jdbc.JdbcInputFormat)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setQuery").withParameters("java.lang.String").definedInClass("org.apache.flink.connector.jdbc.JdbcInputFormat.JdbcInputFormatBuilder"))]]></place>
+    </injection>
+    <injection language="HiveQL" injector-id="java">
       <display-name>TableEnvironment.executeSql (org.apache.flink.table.api)</display-name>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("executeSql").withParameters("java.lang.String").definedInClass("org.apache.flink.table.api.TableEnvironment"))]]></place>
     </injection>
