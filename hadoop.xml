@@ -32,6 +32,7 @@
         <entry key="Hadoop connection@HadoopMonitoringConnections@4640825253235494969">
           <value>
             <HadoopConfig>
+              <option name="applicationsLimit" />
               <option name="selectedPage" value="Applications" />
             </HadoopConfig>
           </value>
