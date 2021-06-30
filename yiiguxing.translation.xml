@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="629" />
     <option name="newTranslationDialogY" value="393" />
     <histories>
+      <item value="end lat" />
       <item value="g totalvoltage" />
       <item value="voltage" />
       <item value="literal" />
@@ -41,6 +42,7 @@
       <map>
         <entry key="CHINESE" value="24" />
         <entry key="ENGLISH" value="24" />
+        <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="LATIN" value="1" />
