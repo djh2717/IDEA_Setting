@@ -5,15 +5,25 @@
   <action id="$TranslateAndReplaceAction">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="ActivateBigDataToolWindowToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
+  <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivateProjectToolWindow" />
   <action id="ActivateRunToolWindow">
-    <keyboard-shortcut first-keystroke="meta 2" />
+    <keyboard-shortcut first-keystroke="meta 1" />
   </action>
   <action id="ActivateServicesToolWindow">
-    <keyboard-shortcut first-keystroke="meta 3" />
+    <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateVersionControlToolWindow" />
   <action id="BigDataTools.FindInEditor" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta escape" />
@@ -44,6 +54,7 @@
   <action id="DatabaseView.PropertiesAction" />
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="DuplicatesForm.SendToLeft" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
@@ -59,9 +70,7 @@
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="EditorContextInfo" />
-  <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="alt d" />
-  </action>
+  <action id="EditorDuplicate" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
@@ -89,6 +98,7 @@
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="Find" />

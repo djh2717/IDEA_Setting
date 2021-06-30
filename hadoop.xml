@@ -29,8 +29,15 @@
             </HadoopConfig>
           </value>
         </entry>
+        <entry key="Hadoop connection@HadoopMonitoringConnections@4640825253235494969">
+          <value>
+            <HadoopConfig>
+              <option name="selectedPage" value="Applications" />
+            </HadoopConfig>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="dataUpdateIntervalMillis" value="5000" />
+    <option name="dataUpdateIntervalMillis" value="10000" />
   </component>
 </application>
