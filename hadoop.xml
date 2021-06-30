@@ -9,6 +9,22 @@
         <option value="logsLink" />
       </list>
     </option>
+    <option name="applicationColumns">
+      <list>
+        <option value="id" />
+        <option value="user" />
+        <option value="name" />
+        <option value="applicationType" />
+        <option value="queue" />
+        <option value="state" />
+        <option value="finalStatus" />
+        <option value="progress" />
+        <option value="trackingUrl" />
+        <option value="startedTime" />
+        <option value="elapsedTime" />
+        <option value="allocatedMB" />
+      </list>
+    </option>
     <option name="configs">
       <map>
         <entry key="Hadoop connection@HadoopMonitoringConnections@-4282850060432265928">
