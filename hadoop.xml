@@ -11,7 +11,6 @@
     </option>
     <option name="applicationColumns">
       <list>
-        <option value="id" />
         <option value="user" />
         <option value="name" />
         <option value="applicationType" />
@@ -23,6 +22,8 @@
         <option value="startedTime" />
         <option value="elapsedTime" />
         <option value="allocatedMB" />
+        <option value="clusterUsagePercentage" />
+        <option value="runningContainers" />
       </list>
     </option>
     <option name="configs">
