@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="629" />
     <option name="newTranslationDialogY" value="393" />
     <histories>
+      <item value="g totalvoltage" />
+      <item value="voltage" />
       <item value="literal" />
       <item value="Unrecognized" />
       <item value="ubertask" />
@@ -38,8 +40,9 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="ENGLISH" value="24" />
         <entry key="AFRIKAANS" value="1" />
+        <entry key="GERMAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="GREEK" value="2" />
       </map>
