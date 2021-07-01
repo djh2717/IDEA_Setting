@@ -6,6 +6,7 @@
     </injection>
     <injection language="HiveQL" injector-id="java">
       <display-name>SqlUtil (utils)</display-name>
+      <place><![CDATA[psiMethod().withName("insertItineraryData").withParameters().definedInClass("utils.SqlUtil")]]></place>
       <place><![CDATA[psiMethod().withName("queryAllVin").withParameters().definedInClass("utils.SqlUtil")]]></place>
       <place><![CDATA[psiMethod().withName("queryAnalysisDataThreeDay").withParameters("java.lang.String", "java.lang.String", "java.lang.String").definedInClass("utils.SqlUtil")]]></place>
       <place><![CDATA[psiMethod().withName("queryAnalysisDataThreeDay").withParameters("java.util.List", "java.lang.String", "java.lang.String").definedInClass("utils.SqlUtil")]]></place>
