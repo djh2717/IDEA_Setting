@@ -98,6 +98,7 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="k_z_i4N_id_rsa_pub.pub/id_rsa.pub" />
         <option value="__P______1./1" />
         <option value="y3mE__G4./4" />
         <option value="dP_I___4./4" />
@@ -107,7 +108,6 @@
         <option value="__LeG__4./4" />
         <option value="R_PHtvd1./1" />
         <option value="_K__Tota_parquet_0.data.csv/ota.parquet(downloaded)" />
-        <option value="___2./2" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/9c/q7bp1dg53msgm9d5pzyt3sq80000gn/T/HDFS-downloaded" />
