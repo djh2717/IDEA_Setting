@@ -29,7 +29,6 @@
     <option name="applicationStates">
       <set>
         <option value="RUNNING" />
-        <option value="FINISHED" />
       </set>
     </option>
     <option name="configs">
