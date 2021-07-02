@@ -26,6 +26,11 @@
         <option value="runningContainers" />
       </list>
     </option>
+    <option name="applicationStates">
+      <set>
+        <option value="RUNNING" />
+      </set>
+    </option>
     <option name="configs">
       <map>
         <entry key="Hadoop connection@HadoopMonitoringConnections@-4282850060432265928">
