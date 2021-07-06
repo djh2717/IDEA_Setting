@@ -1,6 +1,7 @@
 <application>
   <component name="DatabaseSettings" version="7">
     <option name="execute-inside-option" value="2" />
+    <option name="warn-unsafe-query" value="false" />
     <option name="ddl-editor-confirm-loss" value="false" />
     <option name="always-show-console-toolbar" value="true" />
     <exec-options>
