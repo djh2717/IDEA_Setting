@@ -55,6 +55,11 @@
           <value>
             <HadoopConfig>
               <option name="applicationsLimit" />
+              <option name="expandedTools">
+                <set>
+                  <option value="ServerMetrics" />
+                </set>
+              </option>
               <option name="selectedPage" value="Applications" />
             </HadoopConfig>
           </value>
