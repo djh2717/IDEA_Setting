@@ -3,30 +3,32 @@
     <property name="created">2018-05-13T14:58:53</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.2.0</property>
-    <property name="modified">2021-04-16T19:47:21</property>
+    <property name="modified">2021-07-07T10:15:53</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_ADDED" value="859900" />
-    <option name="FILESTATUS_COPIED" value="2aa198" />
-    <option name="FILESTATUS_DELETED" value="b58900" />
-    <option name="FILESTATUS_HIJACKED" value="d33682" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="b58900" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="b58900" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="cb4b16" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="cb4b16" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="cb4b16" />
-    <option name="FILESTATUS_MERGED" value="6c71c4" />
-    <option name="FILESTATUS_MODIFIED" value="2aa198" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268bd2" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="268bd2" />
-    <option name="FILESTATUS_OBSOLETE" value="b58900" />
-    <option name="FILESTATUS_RENAMED" value="6c71c4" />
-    <option name="FILESTATUS_SWITCHED" value="268bd2" />
-    <option name="FILESTATUS_UNKNOWN" value="d33682" />
-    <option name="FILESTATUS_addedOutside" value="d33682" />
-    <option name="FILESTATUS_changelistConflict" value="cb4b16" />
-    <option name="FILESTATUS_modifiedOutside" value="2aa198" />
+    <option name="FILESTATUS_ADDED" value="c3e887" />
+    <option name="FILESTATUS_COPIED" value="73c990" />
+    <option name="FILESTATUS_DELETED" value="f77669" />
+    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="59626f" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="9da5b4" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6347" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6347" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="979fad" />
+    <option name="FILESTATUS_MERGED" value="61aeef" />
+    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_RENAMED" value="c679dd" />
+    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
+    <option name="FILESTATUS_SWITCHED" value="f77669" />
+    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_addedOutside" value="98c379" />
+    <option name="FILESTATUS_changelistConflict" value="ff6347" />
+    <option name="FILESTATUS_modifiedOutside" value="61aeef" />
   </colors>
   <attributes>
     <option name="MT_DIRECTORIES">

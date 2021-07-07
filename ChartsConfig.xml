@@ -54,6 +54,11 @@
             </ChartConfig>
           </value>
         </entry>
+        <entry key="default">
+          <value>
+            <ChartConfig />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
