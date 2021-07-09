@@ -5,5 +5,6 @@
     <option name="autoscrollToSource" value="true" />
     <option name="compactDirectories" value="true" />
     <option name="flattenPackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
   </component>
 </application>
