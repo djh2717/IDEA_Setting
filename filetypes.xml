@@ -6,9 +6,6 @@
       <mapping pattern="_metadata" type="AUTO_DETECTED" />
       <mapping pattern="slave01_8041" type="AUTO_DETECTED" />
       <mapping ext="shell" type="AUTO_DETECTED" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="tt" type="Markdown" />
       <mapping pattern=".flow-m-00000.crc" type="Native" />
       <mapping pattern=".invalid-m-00000.crc" type="Native" />
@@ -107,10 +104,13 @@
       <removed_mapping pattern="profile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="t" approved="true" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
