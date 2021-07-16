@@ -42,8 +42,14 @@
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
   <action id="CompareTwoFiles" />
-  <action id="Console.Execute.Multiline" />
+  <action id="Console.Execute.Multiline">
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Console.SplitLine" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="Console.TableResult.Reload" />
   <action id="ContextRun">
     <keyboard-shortcut first-keystroke="meta r" />
@@ -180,6 +186,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="Scala.MakeExplicit" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
