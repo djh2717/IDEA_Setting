@@ -64,6 +64,7 @@
       <mapping pattern="AllCounty" type="PLAIN_TEXT" />
       <mapping pattern="YarCommand" type="PLAIN_TEXT" />
       <mapping pattern=".part-m-00000.crc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="part-m-00005" type="PLAIN_TEXT" />
       <mapping pattern="part-m-00009" type="PLAIN_TEXT" />
       <mapping pattern="._SUCCESS.crc" type="PLAIN_TEXT" />
