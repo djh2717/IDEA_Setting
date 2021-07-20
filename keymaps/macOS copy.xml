@@ -25,9 +25,13 @@
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateVersionControlToolWindow" />
   <action id="BigDataTools.FindInEditor" />
+  <action id="ChangesView.Move" />
+  <action id="ChangesView.SetDefault" />
+  <action id="ClassNameCompletion" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta escape" />
   </action>
+  <action id="CodeCompletion" />
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
@@ -41,6 +45,9 @@
   <action id="CollapseRegionRecursively">
     <keyboard-shortcut first-keystroke="meta minus" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline">
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -51,6 +58,7 @@
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="Console.TableResult.Reload" />
+  <action id="Console.TableResult.SetDefault" />
   <action id="ContextRun">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
@@ -58,6 +66,8 @@
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
   <action id="DatabaseView.PropertiesAction" />
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DuplicatesForm.SendToLeft" />
@@ -111,6 +121,7 @@
   <action id="FindNext" />
   <action id="Github.PullRequest.Comments.Reload" />
   <action id="Github.PullRequest.Details.Reload" />
+  <action id="GotoAction" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GotoLine" />
@@ -128,6 +139,7 @@
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenEditor.Data">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -138,6 +150,7 @@
   <action id="Maven.ExpandAll">
     <keyboard-shortcut first-keystroke="meta add" />
   </action>
+  <action id="MethodUp" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -147,12 +160,20 @@
   <action id="NavBar-navigate">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="NextEditorTab" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
   <action id="OpenModuleSettings">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="OverrideMethods">
     <keyboard-shortcut first-keystroke="ctrl o" />
     <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="PreviousEditorTab" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="ProblemsView.CollapseAll">
     <keyboard-shortcut first-keystroke="meta subtract" />
@@ -186,6 +207,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="Scala.Desugar" />
   <action id="Scala.MakeExplicit" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
@@ -205,6 +227,7 @@
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowContent" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -225,6 +248,7 @@
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
@@ -234,5 +258,7 @@
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="XDebugger.CopyWatch" />
+  <action id="ZeppelinSelectCellAboveAction" />
+  <action id="ZeppelinSelectCellBelowAction" />
   <action id="openAssertEqualsDiff" />
 </keymap>
