@@ -13,8 +13,9 @@
       <place><![CDATA[psiMethod().withName("queryAnalysisDataThreeDay").withParameters("java.util.List", "java.lang.String", "java.lang.String").definedInClass("utils.SqlUtil")]]></place>
     </injection>
     <injection language="HiveQL" injector-id="java">
-      <display-name>SqlUtil.queryAnalysisDataThreeDay (utils)</display-name>
+      <display-name>SqlUtil (utils)</display-name>
       <place><![CDATA[psiMethod().withName("queryAnalysisDataThreeDay").withParameters().definedInClass("utils.SqlUtil")]]></place>
+      <place><![CDATA[psiMethod().withName("queryChargingData").withParameters().definedInClass("utils.SqlUtil")]]></place>
     </injection>
     <injection language="HiveQL" injector-id="java">
       <display-name>TableEnvironment.executeSql (org.apache.flink.table.api)</display-name>
