@@ -28,6 +28,7 @@
     </option>
     <option name="applicationStates">
       <set>
+        <option value="ACCEPTED" />
         <option value="RUNNING" />
       </set>
     </option>
