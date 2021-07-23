@@ -4,7 +4,7 @@
     <property name="created">2021-07-05T13:14:09</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2021-07-12T14:15:22</property>
+    <property name="modified">2021-07-23T13:50:56</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -57,6 +57,9 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="f780bf" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="f780bf" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="f780bf" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="f89580" />
     <option name="FILESTATUS_MERGED" value="9580ff" />
     <option name="FILESTATUS_MODIFIED" value="80ffea" />
@@ -3089,7 +3092,7 @@
         <option name="FOREGROUND" value="80ffea" />
       </value>
     </option>
-    <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="Scala Type parameter" baseAttributes="" />
     <option name="Standart Java Collection">
       <value>
         <option name="EFFECT_TYPE" value="5" />
