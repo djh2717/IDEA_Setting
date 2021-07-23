@@ -124,6 +124,9 @@
   <action id="GotoAction" />
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
   <action id="GotoLine" />
   <action id="GotoParagraph" />
   <action id="GotoRow" />
@@ -255,7 +258,7 @@
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="ViewToolButtons">
-    <keyboard-shortcut first-keystroke="alt b" />
+    <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="ZeppelinSelectCellAboveAction" />
