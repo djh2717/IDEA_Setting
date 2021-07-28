@@ -3,7 +3,7 @@
     <property name="created">2018-05-13T14:58:53</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.2.0</property>
-    <property name="modified">2021-07-23T13:50:56</property>
+    <property name="modified">2021-07-28T16:18:15</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -36,8 +36,8 @@
   <attributes>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="2b2b2b" />
+        <option name="FOREGROUND" value="abb2bf" />
+        <option name="BACKGROUND" value="282c34" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
