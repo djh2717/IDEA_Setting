@@ -4,7 +4,7 @@
     <property name="created">2021-07-05T13:14:09</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2021-07-23T13:50:56</property>
+    <property name="modified">2021-07-28T16:28:44</property>
     <property name="originalScheme">Atom One Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -322,7 +322,6 @@
         <option name="FOREGROUND" value="c18401" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -2804,6 +2803,13 @@
     <option name="MESSAGE_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="383a42" />
+      </value>
+    </option>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="383a42" />
+        <option name="BACKGROUND" value="fafafa" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="NG.EXPANSION_FORM">
