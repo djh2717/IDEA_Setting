@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="453" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="spliterator" />
       <item value="十二秒" />
       <item value="finalize" />
       <item value="dedicated" />
@@ -52,6 +53,7 @@
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="GERMAN" value="1" />
+        <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="1" />
         <entry key="GREEK" value="2" />
       </map>
