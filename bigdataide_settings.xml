@@ -75,6 +75,23 @@
           <option name="port" value="8088" />
           <option name="uri" value="http://172.16.30.103:8088" />
         </ExtendedConnectionData>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="address" value="rO0ABXQAEjE3Mi4xNi4zMC4xMDQ6OTAwMA==" />
+              <entry key="authenticationType" value="rO0ABXQADEV4cGxpY2l0IHVyaQ==" />
+              <entry key="configsPath" value="rO0ABXQAAA==" />
+              <entry key="rootPath" value="rO0ABXQABi4uLy4uLw==" />
+              <entry key="timeout" value="rO0ABXNyABFqYXZhLmxhbmcuSW50ZWdlchLioKT3gYc4AgABSQAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAADqY" />
+              <entry key="tunnel" value="rO0ABXNyAEpjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLnR1bm5lbC5tb2RlbC5Db25uZWN0aW9uU3NoVHVubmVsSW5mb4g0ot7wzEpsAgAEWgAJaXNFbmFibGVkSQAKcmVtb3RlUG9ydEwACGNvbmZpZ0lkdAASTGphdmEvbGFuZy9TdHJpbmc7TAAKcmVtb3RlSG9zdHEAfgABeHAA/////3QAAHEAfgAD" />
+            </map>
+          </option>
+          <option name="fqn" value="org.jetbrains.hdfsplugin.hdfs.settings.HdfsJavaConnectionData" />
+          <option name="groupId" value="HdfsJavaConnectionGroup" />
+          <option name="innerId" value="HDFS@HdfsJavaConnectionGroup@-1419751586436941388" />
+          <option name="name" value="HDFS-EMR" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+        </ExtendedConnectionData>
       </list>
     </option>
   </component>

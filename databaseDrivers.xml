@@ -1,7 +1,7 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
     <driver id="hive" driver-class="com.cloudera.hive.jdbc4.HS2Driver">
-      <artifact />
+      <artifact id="Hive" name="Hive" channel="fixed" rolling="false" use="true" version="3.1.2" />
       <library>
         <url>file://$USER_HOME$/Downloads/lib/HiveJDBC4.jar</url>
       </library>
