@@ -15,6 +15,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="ff042829-6e3e-4068-8d45-ab550f078157" name="EMR-Header">
+        <fileTransfer accessType="SFTP" host="emr-header-1" port="22" sshConfigId="8401b38e-6128-433d-93d2-ecf0678a70df" sshConfig="root@emr-header-1:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
