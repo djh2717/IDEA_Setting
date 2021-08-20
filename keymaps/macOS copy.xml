@@ -14,6 +14,9 @@
   <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
+  <action id="ActivateMavenToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
   <action id="ActivateProblemsViewToolWindow" />
   <action id="ActivateProjectToolWindow" />
   <action id="ActivateRunToolWindow">
@@ -259,6 +262,9 @@
   <action id="ViewSource" />
   <action id="ViewToolButtons">
     <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="ZeppelinSelectCellAboveAction" />
