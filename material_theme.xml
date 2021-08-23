@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="premium" value="true" />
     <option name="styledDirectories" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="isStyledDirectories" value="true" />
