@@ -41,6 +41,7 @@
       <mapping pattern="._SUCCESS.crc" type="PLAIN_TEXT" />
       <mapping pattern="producerData" type="PLAIN_TEXT" />
       <mapping pattern="part-r-00000" type="PLAIN_TEXT" />
+      <mapping pattern=".prefix-0-0.txt.inprogress.9e1648d7-cb56-4097-a2a2-556a4d3a28e1" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".inv-m-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="word2" type="PLAIN_TEXT" />
