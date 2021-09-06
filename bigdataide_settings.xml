@@ -98,16 +98,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="_a_____test_2_0_parquet_0.data.csv/test-2-0.parquet(downloaded)" />
-        <option value="___r_Otest_3_0_parquet_0.data.csv/test-3-0.parquet(downloaded)" />
-        <option value="__ez_Iu_6test_0_0_parquet_0.data.csv/test-0-0.parquet(downloaded)" />
-        <option value="OT__B__xtest_parquet_0.data.csv/test.parquet(downloaded)" />
-        <option value="KQ______test_0_1_parquet_0.data.csv/test-0-1.parquet(downloaded)" />
-        <option value="U_1___test_0_0_parquet_0.data.csv/test-0-0.parquet(downloaded)" />
-        <option value="_L__Bs_test_3_10_parquet_0.data.csv/test-3-10.parquet(downloaded)" />
-        <option value="tppVm__m____test_3_2_parquet_0.data.csv/test-3-2.parquet(downloaded)" />
-        <option value="eH7I___Ptest_0_4_parquet_0.data.csv/test-0-4.parquet(downloaded)" />
+        <option value="y_k__test_parquet_0.data.csv/test.parquet(downloaded)" />
         <option value="t_3O6___d_l_test_0_2_parquet_0.data.csv/test-0-2.parquet(downloaded)" />
+        <option value="eH7I___Ptest_0_4_parquet_0.data.csv/test-0-4.parquet(downloaded)" />
+        <option value="tppVm__m____test_3_2_parquet_0.data.csv/test-3-2.parquet(downloaded)" />
+        <option value="_L__Bs_test_3_10_parquet_0.data.csv/test-3-10.parquet(downloaded)" />
+        <option value="U_1___test_0_0_parquet_0.data.csv/test-0-0.parquet(downloaded)" />
+        <option value="KQ______test_0_1_parquet_0.data.csv/test-0-1.parquet(downloaded)" />
+        <option value="OT__B__xtest_parquet_0.data.csv/test.parquet(downloaded)" />
+        <option value="__ez_Iu_6test_0_0_parquet_0.data.csv/test-0-0.parquet(downloaded)" />
+        <option value="___r_Otest_3_0_parquet_0.data.csv/test-3-0.parquet(downloaded)" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/66/hk9_v0q17rdgchv7j4ncptpr0000gn/T/HDFS-downloaded" />
