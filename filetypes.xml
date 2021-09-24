@@ -80,6 +80,7 @@
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="xmind" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
