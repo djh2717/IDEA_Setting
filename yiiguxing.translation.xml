@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="453" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="encapsulation" />
+      <item value="Shading will break its strong encapsulation" />
       <item value="Only streams with sinks added will be executed once the StreamExecutionEnvironment.execute() method is called." />
       <item value="recovery" />
       <item value="lease" />
@@ -51,8 +53,6 @@
       <item value="dwd car idle" />
       <item value="时长" />
       <item value="类别" />
-      <item value="alarm" />
-      <item value="dwd car alarm" />
     </histories>
     <option name="languageScores">
       <map>
