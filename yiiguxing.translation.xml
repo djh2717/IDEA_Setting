@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="453" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Big Decimal" />
       <item value="encapsulation" />
       <item value="Shading will break its strong encapsulation" />
       <item value="Only streams with sinks added will be executed once the StreamExecutionEnvironment.execute() method is called." />
@@ -52,7 +53,6 @@
       <item value="idle" />
       <item value="dwd car idle" />
       <item value="时长" />
-      <item value="类别" />
     </histories>
     <option name="languageScores">
       <map>
