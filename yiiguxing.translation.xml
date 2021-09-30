@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="453" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Decoder" />
       <item value="Big Decimal" />
       <item value="encapsulation" />
       <item value="Shading will break its strong encapsulation" />
@@ -52,7 +53,6 @@
       <item value="上报" />
       <item value="idle" />
       <item value="dwd car idle" />
-      <item value="时长" />
     </histories>
     <option name="languageScores">
       <map>
