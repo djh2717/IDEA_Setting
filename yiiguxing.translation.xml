@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="453" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="mapred-variant" />
       <item value="BigDecimal" />
       <item value="Big Decimal" />
       <item value="Decoder" />
@@ -52,11 +53,10 @@
       <item value="奇数" />
       <item value="close Quietly" />
       <item value="上报" />
-      <item value="idle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
+        <entry key="CHINESE" value="42" />
         <entry key="ENGLISH" value="39" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
