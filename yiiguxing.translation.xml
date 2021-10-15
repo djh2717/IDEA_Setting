@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="453" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Returns the substring from string str before count occurrences of the delimiter delim." />
       <item value="mapred-variant" />
       <item value="BigDecimal" />
       <item value="Big Decimal" />
@@ -52,11 +53,10 @@
       <item value="dws buried point common data" />
       <item value="奇数" />
       <item value="close Quietly" />
-      <item value="上报" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
+        <entry key="CHINESE" value="43" />
         <entry key="ENGLISH" value="39" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
