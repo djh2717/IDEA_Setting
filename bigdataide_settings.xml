@@ -115,6 +115,7 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="__E_vLUZAGAAA2JA001080./LUZAGAAA2JA001080" />
         <option value="____5n_N2analysis_bw_gz.gz/analysis-bw.gz" />
         <option value="_Y__U___B_data_txt.txt/data.txt" />
         <option value="___patterns_txt.txt/patterns.txt" />
@@ -124,7 +125,6 @@
         <option value="KQ______test_0_1_parquet_0.data.csv/test-0-1.parquet(downloaded)" />
         <option value="U_1___test_0_0_parquet_0.data.csv/test-0-0.parquet(downloaded)" />
         <option value="_L__Bs_test_3_10_parquet_0.data.csv/test-3-10.parquet(downloaded)" />
-        <option value="tppVm__m____test_3_2_parquet_0.data.csv/test-3-2.parquet(downloaded)" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/66/hk9_v0q17rdgchv7j4ncptpr0000gn/T/HDFS-downloaded" />
