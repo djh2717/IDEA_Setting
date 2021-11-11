@@ -6,6 +6,9 @@
       <mapping pattern="000000_0" type="AUTO_DETECTED" />
       <mapping pattern="part-3-99" type="AUTO_DETECTED" />
       <mapping ext="shell" type="AUTO_DETECTED" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="tt" type="Markdown" />
       <mapping pattern=".flow-m-00000.crc" type="Native" />
       <mapping pattern=".invalid-m-00000.crc" type="Native" />
@@ -72,23 +75,24 @@
       <mapping pattern="part-3-2" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
-      <mapping ext="gzip" type="PLAIN_TEXT" />
-      <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="properies" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
-      <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="lastupdated" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="xmind" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
-      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="edges" type="PLAIN_TEXT" />
+      <mapping ext="gzip" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
+      <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="xmind" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
       <mapping pattern="hive-conf" type="XML" />
       <mapping ext="cfg" type="XML" />
       <mapping pattern=".info.log.crc" type="YAML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bash" approved="true" type="Shell Script" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -99,6 +103,7 @@
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="sh" approved="true" type="Shell Script" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="zsh" approved="true" type="Shell Script" />
@@ -106,13 +111,10 @@
       <removed_mapping pattern="profile" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="t" approved="true" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
       <mapping ext="pks" type="DBN-PSQL" />
       <mapping ext="prc" type="DBN-PSQL" />
-      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="tpb" type="DBN-PSQL" />
       <mapping ext="tpe" type="DBN-PSQL" />
       <mapping ext="tps" type="DBN-PSQL" />
