@@ -1,0 +1,73 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="453" />
+    <option name="newTranslationDialogY" value="395" />
+    <histories>
+      <item value="delimited" />
+      <item value="explode" />
+      <item value="Returns the substring from string str before count occurrences of the delimiter delim." />
+      <item value="mapred-variant" />
+      <item value="BigDecimal" />
+      <item value="Big Decimal" />
+      <item value="Decoder" />
+      <item value="encapsulation" />
+      <item value="Shading will break its strong encapsulation" />
+      <item value="Only streams with sinks added will be executed once the StreamExecutionEnvironment.execute() method is called." />
+      <item value="recovery" />
+      <item value="lease" />
+      <item value="Failed to APPEND_FILE 2021-09-122021-09-12-analysis-2021-09-13.txt for DFSClient_NONMAPREDUCE_289545996_11 on 10.4.19.49 because this file lease is currently owned by DFSClient_NONMAPREDUCE_1439896067_11 on 10.4.19.49" />
+      <item value="Without idleness, these streams can stall the overall event time progress of the application." />
+      <item value="stall" />
+      <item value="enriched" />
+      <item value="implements" />
+      <item value="flat" />
+      <item value="declined" />
+      <item value="get Elect Storage Voltage" />
+      <item value="successors" />
+      <item value="predecessor" />
+      <item value="Chaining Strategy" />
+      <item value="spliterator" />
+      <item value="十二秒" />
+      <item value="finalize" />
+      <item value="dedicated" />
+      <item value="Multi-batch parameter values not supported for this query type." />
+      <item value="get Arity" />
+      <item value="Arity" />
+      <item value="coverage" />
+      <item value="end lat" />
+      <item value="g totalvoltage" />
+      <item value="voltage" />
+      <item value="literal" />
+      <item value="Unrecognized" />
+      <item value="ubertask" />
+      <item value="dws volume adjust" />
+      <item value="dimming" />
+      <item value="dws dimming" />
+      <item value="dws login manner" />
+      <item value="rounds" />
+      <item value="dws local radio_" />
+      <item value="time period" />
+      <item value="credential type" />
+      <item value="dws buried point wide table" />
+      <item value="型" />
+      <item value="period" />
+      <item value="buried" />
+      <item value="dws buried point common data" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="43" />
+        <entry key="ENGLISH" value="41" />
+        <entry key="POLISH" value="1" />
+        <entry key="AFRIKAANS" value="1" />
+        <entry key="GERMAN" value="1" />
+        <entry key="CROATIAN" value="1" />
+        <entry key="LATIN" value="1" />
+        <entry key="GREEK" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1635736753608" />
+  </component>
+</application>

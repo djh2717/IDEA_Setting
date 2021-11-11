@@ -1,0 +1,72 @@
+<application>
+  <component name="HadoopSettings">
+    <option name="appAttemptColumns">
+      <list>
+        <option value="id" />
+        <option value="startTime" />
+        <option value="finishedTime" />
+        <option value="containerId" />
+        <option value="logsLink" />
+      </list>
+    </option>
+    <option name="applicationColumns">
+      <list>
+        <option value="user" />
+        <option value="name" />
+        <option value="applicationType" />
+        <option value="queue" />
+        <option value="state" />
+        <option value="finalStatus" />
+        <option value="progress" />
+        <option value="trackingUrl" />
+        <option value="startedTime" />
+        <option value="elapsedTime" />
+        <option value="allocatedMB" />
+        <option value="clusterUsagePercentage" />
+        <option value="runningContainers" />
+      </list>
+    </option>
+    <option name="applicationStates">
+      <set>
+        <option value="ACCEPTED" />
+        <option value="RUNNING" />
+      </set>
+    </option>
+    <option name="configs">
+      <map>
+        <entry key="Hadoop connection@HadoopMonitoringConnections@-4282850060432265928">
+          <value>
+            <HadoopConfig>
+              <option name="applicationDetailsProportion" value="0.63385415" />
+              <option name="applicationsLimit" />
+              <option name="detailsAttemptsProportion" value="0.22065727" />
+              <option name="expandedTools">
+                <set>
+                  <option value="LocalLogs" />
+                  <option value="Configuration" />
+                </set>
+              </option>
+              <option name="logToContentProportion" value="0.26369494" />
+              <option name="scrollLogToBottom" value="true" />
+              <option name="selectedPage" value="Applications" />
+            </HadoopConfig>
+          </value>
+        </entry>
+        <entry key="Hadoop connection@HadoopMonitoringConnections@4640825253235494969">
+          <value>
+            <HadoopConfig>
+              <option name="applicationsLimit" />
+              <option name="expandedTools">
+                <set>
+                  <option value="ServerMetrics" />
+                </set>
+              </option>
+              <option name="selectedPage" value="Applications" />
+            </HadoopConfig>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="dataUpdateIntervalMillis" value="10000" />
+  </component>
+</application>

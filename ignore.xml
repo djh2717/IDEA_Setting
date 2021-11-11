@@ -23,7 +23,6 @@
       <language id="NuxtJS" NEW_FILE="true" ENABLE="false" />
       <language id="Perforce" NEW_FILE="true" ENABLE="false" />
       <language id="Prettier" NEW_FILE="true" ENABLE="false" />
-      <language id="Sourcegraph" NEW_FILE="true" ENABLE="false" />
       <language id="StyleLint" NEW_FILE="true" ENABLE="false" />
       <language id="Stylint" NEW_FILE="true" ENABLE="false" />
       <language id="Swagger Codegen" NEW_FILE="true" ENABLE="false" />

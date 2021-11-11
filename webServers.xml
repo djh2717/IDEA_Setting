@@ -1,0 +1,34 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1679ace7-32a6-4785-a9b7-b6489f3ac854" name="172.16.30.116">
+        <fileTransfer accessType="SFTP" host="172.16.30.116" port="22" sshConfigId="49c1d7ce-ae9c-4a85-9b5b-b6ab6c6bec26" sshConfig="root@172.16.30.116:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="0bb3ddac-b0b6-446c-8eb4-79c6ca124399" name="172.16.30.103" url="http://172.16.30.103">
+        <fileTransfer accessType="SFTP" host="172.16.30.103" port="22" sshConfigId="889608b7-d65a-4a4d-8b9c-183edf2f4acd" sshConfig="root@172.16.30.103:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c1c54576-3032-42f6-82c0-af441b18b62d" name="10.0.6.93" url="http://192.168.1.101">
+        <fileTransfer accessType="SFTP" host="10.0.6.93" port="22" sshConfigId="a0505a88-235a-4f9b-a6ee-b456a30b6e24" sshConfig="root@10.0.6.93:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ff042829-6e3e-4068-8d45-ab550f078157" name="EMR-Header">
+        <fileTransfer accessType="SFTP" host="emr-header-1" port="22" sshConfigId="8401b38e-6128-433d-93d2-ecf0678a70df" sshConfig="root@emr-header-1:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
