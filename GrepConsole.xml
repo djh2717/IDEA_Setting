@@ -1,5 +1,59 @@
 <application>
   <component name="GrepConsole">
+    <option name="grepHistory">
+      <list>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="---" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="caseSensitive" value="true" />
+                <option name="expression" value="--" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="caseSensitive" value="true" />
+                <option name="expression" value="+U" />
+              </GrepModel>
+              <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="+U" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+      </list>
+    </option>
     <option name="profiles">
       <list>
         <Profile>
