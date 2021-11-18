@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="453" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="SINK PARALLELISM" />
       <item value="concurrently" />
       <item value="start Run" />
       <item value="delimited" />
@@ -52,12 +53,11 @@
       <item value="credential type" />
       <item value="dws buried point wide table" />
       <item value="型" />
-      <item value="period" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="GERMAN" value="1" />
@@ -68,6 +68,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636601161041" />
+    <option name="lastTrimTime" value="1637222619631" />
   </component>
 </application>
