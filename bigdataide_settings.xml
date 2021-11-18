@@ -109,22 +109,37 @@
           <option name="name" value="HDFS-Uat" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
         </ExtendedConnectionData>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="properties" value="rO0ABXQAAA==" />
+              <entry key="tunnel" value="rO0ABXNyAEpjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLnR1bm5lbC5tb2RlbC5Db25uZWN0aW9uU3NoVHVubmVsSW5mb4g0ot7wzEpsAgAEWgAJaXNFbmFibGVkSQAKcmVtb3RlUG9ydEwACGNvbmZpZ0lkdAASTGphdmEvbGFuZy9TdHJpbmc7TAAKcmVtb3RlSG9zdHEAfgABeHAA/////3QAAHEAfgAD" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.bigdatatools.kafka.rfs.KafkaConnectionData" />
+          <option name="groupId" value="KafkaConnections" />
+          <option name="innerId" value="Kafka connection@KafkaConnections@4826936993858615210" />
+          <option name="name" value="Kafka connection" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+          <option name="port" value="-1" />
+          <option name="uri" value="127.0.0.1:9092" />
+        </ExtendedConnectionData>
       </list>
     </option>
   </component>
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="__OpvWwsettings__xml.xml/settings-默认初始文件.xml" />
-        <option value="I_klvT__9settings_xml.xml/settings.xml" />
-        <option value="U_1___test_0_0_parquet_0.data.csv/test-0-0.parquet(downloaded)" />
-        <option value="KQ______test_0_1_parquet_0.data.csv/test-0-1.parquet(downloaded)" />
-        <option value="OT__B__xtest_parquet_0.data.csv/test.parquet(downloaded)" />
-        <option value="__ez_Iu_6test_0_0_parquet_0.data.csv/test-0-0.parquet(downloaded)" />
-        <option value="___r_Otest_3_0_parquet_0.data.csv/test-3-0.parquet(downloaded)" />
-        <option value="___patterns_txt.txt/patterns.txt" />
-        <option value="_Y__U___B_data_txt.txt/data.txt" />
         <option value="____5n_N2analysis_bw_gz.gz/analysis-bw.gz" />
+        <option value="_Y__U___B_data_txt.txt/data.txt" />
+        <option value="___patterns_txt.txt/patterns.txt" />
+        <option value="___r_Otest_3_0_parquet_0.data.csv/test-3-0.parquet(downloaded)" />
+        <option value="__ez_Iu_6test_0_0_parquet_0.data.csv/test-0-0.parquet(downloaded)" />
+        <option value="OT__B__xtest_parquet_0.data.csv/test.parquet(downloaded)" />
+        <option value="KQ______test_0_1_parquet_0.data.csv/test-0-1.parquet(downloaded)" />
+        <option value="U_1___test_0_0_parquet_0.data.csv/test-0-0.parquet(downloaded)" />
+        <option value="I_klvT__9settings_xml.xml/settings.xml" />
+        <option value="__OpvWwsettings__xml.xml/settings-默认初始文件.xml" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/66/hk9_v0q17rdgchv7j4ncptpr0000gn/T/HDFS-downloaded" />
