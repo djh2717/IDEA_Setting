@@ -19,6 +19,7 @@
       <mapping pattern="AllCounty" type="PLAIN_TEXT" />
       <mapping pattern="ConfigVar" type="PLAIN_TEXT" />
       <mapping pattern="LinuxCommand" type="PLAIN_TEXT" />
+      <mapping pattern=".file-0-0.gz.inprogress.8e609af3-cb8f-4163-9a9f-f233e82da2da" type="PLAIN_TEXT" />
       <mapping pattern="isolate_snapshot_data" type="PLAIN_TEXT" />
       <mapping pattern="slaves" type="PLAIN_TEXT" />
       <mapping pattern="canvas" type="PLAIN_TEXT" />
