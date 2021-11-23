@@ -19,6 +19,7 @@
       <mapping pattern=".file-0-1.gz.inprogress.47b8a5c1-0b20-40f7-97f7-5b87e8c12f34" type="PLAIN_TEXT" />
       <mapping pattern="AllCounty" type="PLAIN_TEXT" />
       <mapping pattern="ConfigVar" type="PLAIN_TEXT" />
+      <mapping pattern=".file-092da3c7-53a8-402f-9f4b-a7fe1323e57e-0.gz.inprogress.7035319b-3e89-4940-9ebb-2f4e5680e6fc" type="PLAIN_TEXT" />
       <mapping pattern="LinuxCommand" type="PLAIN_TEXT" />
       <mapping pattern=".file-0-0.gz.inprogress.8e609af3-cb8f-4163-9a9f-f233e82da2da" type="PLAIN_TEXT" />
       <mapping pattern="isolate_snapshot_data" type="PLAIN_TEXT" />
