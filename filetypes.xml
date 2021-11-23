@@ -61,6 +61,7 @@
       <mapping pattern="CityIdAndName" type="PLAIN_TEXT" />
       <mapping pattern="v-m-00000" type="PLAIN_TEXT" />
       <mapping pattern="cat" type="PLAIN_TEXT" />
+      <mapping pattern=".part-2-2.inprogress.300c3f56-9dc8-4527-bd44-74a5f930a577" type="PLAIN_TEXT" />
       <mapping pattern="Hadoop 全分布式搭建" type="PLAIN_TEXT" />
       <mapping pattern="command" type="PLAIN_TEXT" />
       <mapping pattern=".v-m-00000.crc" type="PLAIN_TEXT" />
