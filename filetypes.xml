@@ -16,6 +16,7 @@
       <mapping pattern=".invalid-m-00000.crc" type="Native" />
       <mapping pattern=".valid-r-00000.crc" type="Native" />
       <mapping pattern="PlaceHolder" type="PLAIN_TEXT" />
+      <mapping pattern=".file-0-1.gz.inprogress.47b8a5c1-0b20-40f7-97f7-5b87e8c12f34" type="PLAIN_TEXT" />
       <mapping pattern="AllCounty" type="PLAIN_TEXT" />
       <mapping pattern="ConfigVar" type="PLAIN_TEXT" />
       <mapping pattern="LinuxCommand" type="PLAIN_TEXT" />
@@ -28,6 +29,7 @@
       <mapping pattern="Hadoop" type="PLAIN_TEXT" />
       <mapping pattern="LinuxUseInfo" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern=".file-0-0.gz.inprogress.92379a2b-e81e-42b1-a41f-ba3d39a4a9c1" type="PLAIN_TEXT" />
       <mapping pattern="2" type="PLAIN_TEXT" />
       <mapping pattern="3" type="PLAIN_TEXT" />
       <mapping pattern="4" type="PLAIN_TEXT" />
@@ -60,6 +62,7 @@
       <mapping pattern="StartCommand" type="PLAIN_TEXT" />
       <mapping pattern="VimShortCut" type="PLAIN_TEXT" />
       <mapping pattern="part-m-00009" type="PLAIN_TEXT" />
+      <mapping pattern=".file-0-0.gz.inprogress.b1f6a4b7-06ef-40fb-8e5d-823535b9a474" type="PLAIN_TEXT" />
       <mapping pattern="part-m-00005" type="PLAIN_TEXT" />
       <mapping pattern=".part-r-00001.crc" type="PLAIN_TEXT" />
       <mapping pattern="CityIdAndName" type="PLAIN_TEXT" />
