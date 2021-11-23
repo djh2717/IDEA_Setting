@@ -54,6 +54,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
       <mapping pattern="part-1-25" type="PLAIN_TEXT" />
+      <mapping pattern=".file-0-0.gz.inprogress.98d5c6ab-ee86-4716-8acf-a3819ea238f9" type="PLAIN_TEXT" />
       <mapping pattern=".part-r-00000.crc" type="PLAIN_TEXT" />
       <mapping pattern="part-m-00000" type="PLAIN_TEXT" />
       <mapping pattern="StartCommand" type="PLAIN_TEXT" />
