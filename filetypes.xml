@@ -65,6 +65,7 @@
       <mapping pattern="part-m-00009" type="PLAIN_TEXT" />
       <mapping pattern=".file-0-0.gz.inprogress.b1f6a4b7-06ef-40fb-8e5d-823535b9a474" type="PLAIN_TEXT" />
       <mapping pattern="part-m-00005" type="PLAIN_TEXT" />
+      <mapping pattern=".file-1-0.gz.inprogress.30305a64-057c-4993-b06b-7e3344120baf" type="PLAIN_TEXT" />
       <mapping pattern=".part-r-00001.crc" type="PLAIN_TEXT" />
       <mapping pattern="CityIdAndName" type="PLAIN_TEXT" />
       <mapping pattern="v-m-00000" type="PLAIN_TEXT" />
