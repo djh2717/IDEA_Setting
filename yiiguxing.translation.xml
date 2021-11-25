@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="453" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="custome" />
       <item value="Experimental" />
       <item value="alternate" />
       <item value="art files can be in one of three states: in-progress, pending or finished. The reason for this is how the sink works together with the checkpointing mechanism to provide exactly-once semantics and fault-tolerance. The part file that is currently being written to is in-progress. Once a part file is closed for writing it becomes pending. When a checkpoint is successful the currently pending files will be moved to finished." />
@@ -52,7 +53,6 @@
       <item value="voltage" />
       <item value="literal" />
       <item value="Unrecognized" />
-      <item value="ubertask" />
     </histories>
     <option name="languageScores">
       <map>
