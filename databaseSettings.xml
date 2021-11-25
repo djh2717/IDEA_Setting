@@ -1,7 +1,10 @@
 <application>
   <component name="DatabaseSettings" version="7">
+    <option name="page-size" value="5000" />
+    <option name="page-size-updated-timestamp" value="1637831129376" />
     <option name="reuse-result-tab" value="false" />
     <option name="execute-inside-option" value="2" />
+    <option name="prefetch-size" value="1000" />
     <option name="warn-unsafe-query" value="false" />
     <option name="ddl-editor-confirm-loss" value="false" />
     <exec-options>
