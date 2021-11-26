@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="453" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="path" />
       <item value="neither via constructorsetters, nor via the Configuration." />
       <item value="custome" />
       <item value="Experimental" />
@@ -52,7 +53,6 @@
       <item value="end lat" />
       <item value="g totalvoltage" />
       <item value="voltage" />
-      <item value="literal" />
     </histories>
     <option name="languageScores">
       <map>

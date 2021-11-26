@@ -87,17 +87,6 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="caseSensitive" value="true" />
-                <option name="expression" value="3&gt;" />
-                <option name="wholeWords" value="true" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
                 <option name="expression" value="" />
               </GrepModel>
             </list>
@@ -118,6 +107,17 @@
             <list>
               <GrepModel>
                 <option name="expression" value="a1" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="caseSensitive" value="true" />
+                <option name="expression" value="3&gt;" />
+                <option name="wholeWords" value="true" />
               </GrepModel>
             </list>
           </option>
