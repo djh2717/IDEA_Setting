@@ -41,6 +41,7 @@
       <mapping pattern="fileOne" type="PLAIN_TEXT" />
       <mapping pattern=".error.log.crc" type="PLAIN_TEXT" />
       <mapping pattern="masters" type="PLAIN_TEXT" />
+      <mapping pattern=".vin-time-bw-2-0.gz.inprogress.d02730d0-1f04-4045-a773-208f013318e6" type="PLAIN_TEXT" />
       <mapping pattern="regionservers" type="PLAIN_TEXT" />
       <mapping pattern="测试文件" type="PLAIN_TEXT" />
       <mapping pattern="MrCommand" type="PLAIN_TEXT" />
