@@ -17,6 +17,7 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
