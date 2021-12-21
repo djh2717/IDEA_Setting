@@ -8,6 +8,7 @@
   <action id="ActivateBigDataToolWindowToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
+  <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
