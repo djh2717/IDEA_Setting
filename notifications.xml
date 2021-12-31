@@ -2,5 +2,6 @@
   <component name="NotificationConfiguration">
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Error Report" displayType="NONE" shouldLog="false" />
+    <notification groupId="Language Plugins Notifications" displayType="NONE" />
   </component>
 </application>
