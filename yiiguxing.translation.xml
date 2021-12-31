@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="402" />
     <option name="newTranslationDialogY" value="356" />
     <histories>
+      <item value="hex" />
+      <item value="heapq" />
+      <item value="heapify" />
+      <item value="queue" />
       <item value="Debezium Source Function" />
       <item value="Debezium" />
       <item value="GZIP Output Stream" />
@@ -49,15 +53,12 @@
       <item value="recovery" />
       <item value="lease" />
       <item value="Failed to APPEND_FILE 2021-09-122021-09-12-analysis-2021-09-13.txt for DFSClient_NONMAPREDUCE_289545996_11 on 10.4.19.49 because this file lease is currently owned by DFSClient_NONMAPREDUCE_1439896067_11 on 10.4.19.49" />
-      <item value="Without idleness, these streams can stall the overall event time progress of the application." />
-      <item value="stall" />
-      <item value="enriched" />
-      <item value="implements" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="61" />
+        <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="GERMAN" value="1" />
