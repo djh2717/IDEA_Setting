@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="402" />
     <option name="newTranslationDialogY" value="356" />
     <histories>
+      <item value="invariant" />
       <item value="hex" />
       <item value="heapq" />
       <item value="heapify" />
@@ -52,11 +53,10 @@
       <item value="Only streams with sinks added will be executed once the StreamExecutionEnvironment.execute() method is called." />
       <item value="recovery" />
       <item value="lease" />
-      <item value="Failed to APPEND_FILE 2021-09-122021-09-12-analysis-2021-09-13.txt for DFSClient_NONMAPREDUCE_289545996_11 on 10.4.19.49 because this file lease is currently owned by DFSClient_NONMAPREDUCE_1439896067_11 on 10.4.19.49" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
+        <entry key="CHINESE" value="62" />
         <entry key="ENGLISH" value="61" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640597944606" />
+    <option name="lastTrimTime" value="1641111009117" />
   </component>
 </application>
