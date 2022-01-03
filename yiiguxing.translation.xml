@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="402" />
     <option name="newTranslationDialogY" value="356" />
     <histories>
+      <item value="差值" />
       <item value="invariant" />
       <item value="hex" />
       <item value="heapq" />
@@ -52,12 +53,11 @@
       <item value="Shading will break its strong encapsulation" />
       <item value="Only streams with sinks added will be executed once the StreamExecutionEnvironment.execute() method is called." />
       <item value="recovery" />
-      <item value="lease" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="62" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
