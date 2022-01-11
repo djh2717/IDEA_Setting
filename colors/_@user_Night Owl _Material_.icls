@@ -4,7 +4,7 @@
     <property name="created">2021-07-05T13:14:09</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2022-01-08T17:32:10</property>
+    <property name="modified">2022-01-11T10:24:51</property>
     <property name="originalScheme">Night Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -63,7 +63,7 @@
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="979fad" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="f89580" />
     <option name="FILESTATUS_MERGED" value="82aaff" />
     <option name="FILESTATUS_MODIFIED" value="ffcb8b" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="7fdbca" />
