@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="402" />
     <option name="newTranslationDialogY" value="356" />
     <histories>
+      <item value="nll loss" />
       <item value="evaluation" />
       <item value="gradient" />
       <item value="计算gradient" />
@@ -52,7 +53,6 @@
       <item value="alternate" />
       <item value="art files can be in one of three states: in-progress, pending or finished. The reason for this is how the sink works together with the checkpointing mechanism to provide exactly-once semantics and fault-tolerance. The part file that is currently being written to is in-progress. Once a part file is closed for writing it becomes pending. When a checkpoint is successful the currently pending files will be moved to finished." />
       <item value="If case of a failure, and in order to guarantee exactly-once semantics, the sink should roll back to the state it had when that last successful checkpoint occurred. To this end, when restoring, the restored files in pending state are transferred into the finished state while any in-progress files are rolled back, so that they do not contain data that arrived after the checkpoint from which we restore." />
-      <item value="In some scenarios, the open buckets are required to change based on time. In these cases, the user can specify a bucketCheckInterval (by default 1m) and the sink will check periodically and roll the part file if the specified rolling policy says so." />
     </histories>
     <option name="languageScores">
       <map>
@@ -66,6 +66,7 @@
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="2" />
         <entry key="GREEK" value="2" />
+        <entry key="IGBO" value="1" />
       </map>
     </option>
   </component>
