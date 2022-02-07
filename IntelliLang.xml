@@ -2,10 +2,12 @@
   <component name="LanguageInjectionConfiguration">
     <injection language="HiveQL" injector-id="java">
       <display-name>JdbcInputFormatBuilder.setQuery (org.apache.flink.connector.jdbc.JdbcInputFormat)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("setQuery").withParameters("java.lang.String").definedInClass("org.apache.flink.connector.jdbc.JdbcInputFormat.JdbcInputFormatBuilder"))]]></place>
     </injection>
     <injection language="HiveQL" injector-id="java">
       <display-name>SqlUtil (utils)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiMethod().withName("insertItineraryData").withParameters().definedInClass("utils.SqlUtil")]]></place>
       <place><![CDATA[psiMethod().withName("queryAllVin").withParameters().definedInClass("utils.SqlUtil")]]></place>
       <place><![CDATA[psiMethod().withName("queryAnalysisDataThreeDay").withParameters("java.lang.String", "java.lang.String").definedInClass("utils.SqlUtil")]]></place>
@@ -14,15 +16,19 @@
     </injection>
     <injection language="HiveQL" injector-id="java">
       <display-name>SqlUtil (utils)</display-name>
+      <single-file value="true" />
+      <place><![CDATA[psiMethod().withName("queryAnalysisDataGapDay").withParameters().definedInClass("utils.SqlUtil")]]></place>
       <place><![CDATA[psiMethod().withName("queryAnalysisDataThreeDay").withParameters().definedInClass("utils.SqlUtil")]]></place>
       <place><![CDATA[psiMethod().withName("queryChargingData").withParameters().definedInClass("utils.SqlUtil")]]></place>
     </injection>
     <injection language="SparkSQL" injector-id="java">
       <display-name>TableEnvironment.executeSql (org.apache.flink.table.api)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("executeSql").withParameters("java.lang.String").definedInClass("org.apache.flink.table.api.TableEnvironment"))]]></place>
     </injection>
     <injection language="HiveQL" injector-id="java">
       <display-name>TableEnvironment.sqlQuery (org.apache.flink.table.api)</display-name>
+      <single-file value="true" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("sqlQuery").withParameters("java.lang.String").definedInClass("org.apache.flink.table.api.TableEnvironment"))]]></place>
     </injection>
   </component>
