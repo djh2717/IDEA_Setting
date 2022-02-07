@@ -19,6 +19,7 @@
       <single-file value="true" />
       <place><![CDATA[psiMethod().withName("queryAnalysisDataGapDay").withParameters().definedInClass("utils.SqlUtil")]]></place>
       <place><![CDATA[psiMethod().withName("queryAnalysisDataThreeDay").withParameters().definedInClass("utils.SqlUtil")]]></place>
+      <place><![CDATA[psiMethod().withName("queryChargeDataGapDay").withParameters().definedInClass("utils.SqlUtil")]]></place>
       <place><![CDATA[psiMethod().withName("queryChargingData").withParameters().definedInClass("utils.SqlUtil")]]></place>
     </injection>
     <injection language="SparkSQL" injector-id="java">
