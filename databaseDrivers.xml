@@ -1,5 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="clickhouse">
+      <artifact id="ClickHouse" name="ClickHouse" use="true" version="0.3.1" />
+    </driver>
     <driver id="hive" driver-class="com.cloudera.hive.jdbc4.HS2Driver">
       <artifact id="Hive" name="Hive" channel="fixed" rolling="false" use="true" version="3.1.2" />
       <library>
