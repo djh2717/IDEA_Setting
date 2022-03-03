@@ -19,10 +19,10 @@
           <option name="fqn" value="com.jetbrains.hadoop.monitoring.settings.HadoopConnectionData" />
           <option name="groupId" value="HadoopMonitoringConnections" />
           <option name="innerId" value="Hadoop connection@HadoopMonitoringConnections@-4282850060432265928" />
-          <option name="name" value="Hadoop" />
+          <option name="name" value="Hadoop-localhost" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
           <option name="port" value="8088" />
-          <option name="uri" value="http://10.0.6.93:8088" />
+          <option name="uri" value="http://127.0.0.1:8088" />
         </ExtendedConnectionData>
         <ExtendedConnectionData>
           <option name="extended">
@@ -56,7 +56,7 @@
         <ExtendedConnectionData>
           <option name="extended">
             <map>
-              <entry key="address" value="rO0ABXQAFWhkZnM6Ly8xMC4wLjYuOTM6ODAyMA==" />
+              <entry key="address" value="rO0ABXQAFWhkZnM6Ly8xMjcuMC4wLjE6OTAwMA==" />
               <entry key="authenticationType" value="rO0ABXQADEV4cGxpY2l0IHVyaQ==" />
               <entry key="configsPath" value="rO0ABXQAAA==" />
               <entry key="rootPath" value="rO0ABXQABi4uLy4uLw==" />
@@ -67,7 +67,7 @@
           <option name="fqn" value="org.jetbrains.hdfsplugin.hdfs.settings.HdfsJavaConnectionData" />
           <option name="groupId" value="HdfsJavaConnectionGroup" />
           <option name="innerId" value="HDFS@HdfsJavaConnectionGroup@-4333052799834361113" />
-          <option name="name" value="HDFS-Uat" />
+          <option name="name" value="HDFS-localhost" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
         </ExtendedConnectionData>
       </list>
