@@ -76,6 +76,7 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="Users/jiahao/Desktop/Study/FlinkStudy/src/main/resources/input2/data.csv" />
         <option value="Users/jiahao/Desktop/Study/FlinkStudy/src/main/resources/input2/fix.csv" />
         <option value="___r_Otest_3_0_parquet_0.data.csv/test-3-0.parquet(downloaded)" />
         <option value="__ez_Iu_6test_0_0_parquet_0.data.csv/test-0-0.parquet(downloaded)" />
@@ -85,7 +86,6 @@
         <option value="I_klvT__9settings_xml.xml/settings.xml" />
         <option value="__OpvWwsettings__xml.xml/settings-默认初始文件.xml" />
         <option value="MY_A_uBWH1637911633980_itinerary_txt.txt/1637911633980-itinerary.txt" />
-        <option value="p_So900000_90f0a866_be05_4c92_b6bc_9eaa0caf6782_metadata_json.json/00000-90f0a866-be05-4c92-b6bc-9eaa0caf6782.metadata.json" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/66/hk9_v0q17rdgchv7j4ncptpr0000gn/T/HDFS-downloaded" />
