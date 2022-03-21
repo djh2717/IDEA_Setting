@@ -22,11 +22,6 @@
       <place><![CDATA[psiMethod().withName("queryChargeDataGapDay").withParameters().definedInClass("utils.SqlUtil")]]></place>
       <place><![CDATA[psiMethod().withName("queryChargingData").withParameters().definedInClass("utils.SqlUtil")]]></place>
     </injection>
-    <injection language="SparkSQL" injector-id="java">
-      <display-name>TableEnvironment.executeSql (org.apache.flink.table.api)</display-name>
-      <single-file value="true" />
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("executeSql").withParameters("java.lang.String").definedInClass("org.apache.flink.table.api.TableEnvironment"))]]></place>
-    </injection>
     <injection language="HiveQL" injector-id="java">
       <display-name>TableEnvironment.sqlQuery (org.apache.flink.table.api)</display-name>
       <single-file value="true" />
