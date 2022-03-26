@@ -104,6 +104,7 @@
       <mapping ext="db" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
       <mapping pattern="hive-conf" type="XML" />
+      <mapping ext="qrc" type="XML" />
       <mapping ext="cfg" type="XML" />
       <mapping pattern=".info.log.crc" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
