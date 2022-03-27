@@ -39,22 +39,6 @@
         <ExtendedConnectionData>
           <option name="extended">
             <map>
-              <entry key="address" value="rO0ABXQAGWhkZnM6Ly8xNzIuMTYuMzAuMTEyOjgwMjA=" />
-              <entry key="authenticationType" value="rO0ABXQADEV4cGxpY2l0IHVyaQ==" />
-              <entry key="configsPath" value="rO0ABXQAAA==" />
-              <entry key="rootPath" value="rO0ABXQABi4uLy4uLw==" />
-              <entry key="tunnel" value="rO0ABXNyAEpjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLnR1bm5lbC5tb2RlbC5Db25uZWN0aW9uU3NoVHVubmVsSW5mb4g0ot7wzEpsAgAEWgAJaXNFbmFibGVkSQAKcmVtb3RlUG9ydEwACGNvbmZpZ0lkdAASTGphdmEvbGFuZy9TdHJpbmc7TAAKcmVtb3RlSG9zdHEAfgABeHAA/////3QAAHEAfgAD" />
-            </map>
-          </option>
-          <option name="fqn" value="org.jetbrains.hdfsplugin.hdfs.settings.HdfsJavaConnectionData" />
-          <option name="groupId" value="HdfsJavaConnectionGroup" />
-          <option name="innerId" value="HDFS@HdfsJavaConnectionGroup@-1419751586436941388" />
-          <option name="name" value="HDFS-EMR" />
-          <option name="pluginId" value="com.intellij.bigdatatools" />
-        </ExtendedConnectionData>
-        <ExtendedConnectionData>
-          <option name="extended">
-            <map>
               <entry key="address" value="rO0ABXQAFWhkZnM6Ly8xMjcuMC4wLjE6OTAwMA==" />
               <entry key="authenticationType" value="rO0ABXQADEV4cGxpY2l0IHVyaQ==" />
               <entry key="configsPath" value="rO0ABXQAAA==" />
@@ -67,6 +51,23 @@
           <option name="innerId" value="HDFS@HdfsJavaConnectionGroup@-4333052799834361113" />
           <option name="name" value="HDFS-localhost" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
+        </ExtendedConnectionData>
+        <ExtendedConnectionData>
+          <option name="extended">
+            <map>
+              <entry key="properties" value="rO0ABXQAAA==" />
+              <entry key="propertyFilePath" value="rO0ABXQAAA==" />
+              <entry key="propertySource" value="rO0ABX5yADhjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5rYWZrYS5yZnMuS2Fma2FQcm9wZXJ0eVNvdXJjZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABkRJUkVDVA==" />
+              <entry key="tunnel" value="rO0ABXNyAEpjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLnR1bm5lbC5tb2RlbC5Db25uZWN0aW9uU3NoVHVubmVsSW5mb4g0ot7wzEpsAgAEWgAJaXNFbmFibGVkSQAKcmVtb3RlUG9ydEwACGNvbmZpZ0lkdAASTGphdmEvbGFuZy9TdHJpbmc7TAAKcmVtb3RlSG9zdHEAfgABeHAA/////3QAAHEAfgAD" />
+            </map>
+          </option>
+          <option name="fqn" value="com.jetbrains.bigdatatools.kafka.rfs.KafkaConnectionData" />
+          <option name="groupId" value="KafkaConnections" />
+          <option name="innerId" value="Kafka connection@KafkaConnections@-1906364387978938316" />
+          <option name="name" value="Kafka connection" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+          <option name="port" value="-1" />
+          <option name="uri" value="127.0.0.1:9092" />
         </ExtendedConnectionData>
       </list>
     </option>
