@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="402" />
     <option name="newTranslationDialogY" value="356" />
     <histories>
+      <item value="WORKFLOW ID DAY PARTING" />
       <item value="内部" />
       <item value="positional" />
       <item value="SQL DAY PARTING" />
@@ -52,12 +53,11 @@
       <item value="modify" />
       <item value="60000" />
       <item value="This is useful for hadoop to minimize the size of compression blocks for their file formats (e.g. SequenceFile) but is undesirable for Parquet since we already have the data page which provides that." />
-      <item value="We do not use the default hadoop one since that codec adds a blocking structure around the base snappy compression algorithm" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
