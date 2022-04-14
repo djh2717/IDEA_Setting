@@ -21,5 +21,10 @@
         <url>file://$USER_HOME$/Downloads/lib/ImpalaJDBC41.jar</url>
       </library>
     </driver>
+    <driver id="ae75fec2-4fa4-4eb6-b536-c0ed29e96271" name="Redshift" driver-class="com.amazon.redshift.Driver">
+      <library>
+        <url>file://$USER_HOME$/Downloads/lib/redshift-jdbc42-2.0.0.4.jar</url>
+      </library>
+    </driver>
   </component>
 </application>
