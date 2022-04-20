@@ -27,7 +27,9 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateStructureToolWindow" />
-  <action id="ActivateVersionControlToolWindow" />
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 1" />
+  </action>
   <action id="BigDataTools.FindInEditor" />
   <action id="ChangesView.Move" />
   <action id="ChangesView.SetDefault" />
