@@ -69,6 +69,38 @@
           <option name="port" value="-1" />
           <option name="uri" value="127.0.0.1:9092" />
         </ExtendedConnectionData>
+        <ExtendedConnectionData>
+          <option name="anonymous" value="true" />
+          <option name="extended">
+            <map>
+              <entry key="defaultNotebookName" value="rO0ABXQAE0lERUFfUGx1Z2luL2RlZmF1bHQ=" />
+              <entry key="enableBasicAuth" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="enableIntellijIntegration" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
+              <entry key="enableOnDemandZtools" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="enableProxy" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="hadoopVersion" value="rO0ABXQABTMuMi4x" />
+              <entry key="notifyAfter" value="rO0ABXNyABFqYXZhLmxhbmcuSW50ZWdlchLioKT3gYc4AgABSQAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAAAA8" />
+              <entry key="proxyAuthEnabled" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="proxyEnableType" value="rO0ABX5yADVjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLlByb3h5RW5hYmxlVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACERJU0FCTEVE" />
+              <entry key="proxyHost" value="rO0ABXQAAA==" />
+              <entry key="proxyPort" value="rO0ABXNyABFqYXZhLmxhbmcuSW50ZWdlchLioKT3gYc4AgABSQAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAAABQ" />
+              <entry key="proxyType" value="rO0ABX5yAC9jb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLlByb3h5VHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABEhUVFA=" />
+              <entry key="scalaVersion" value="rO0ABXQABDIuMTI=" />
+              <entry key="sparkVersion" value="rO0ABXQABTMuMS4z" />
+              <entry key="systemNotificationEnabled" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
+              <entry key="tunnel" value="rO0ABXNyAEpjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLnR1bm5lbC5tb2RlbC5Db25uZWN0aW9uU3NoVHVubmVsSW5mb4g0ot7wzEpsAgAEWgAJaXNFbmFibGVkSQAKcmVtb3RlUG9ydEwACGNvbmZpZ0lkdAASTGphdmEvbGFuZy9TdHJpbmc7TAAKcmVtb3RlSG9zdHEAfgABeHAA/////3QAAHEAfgAD" />
+              <entry key="ztoolsDfsSameNoteOnly" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
+              <entry key="ztoolsSqlSameNoteOnly" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
+            </map>
+          </option>
+          <option name="fqn" value="com.intellij.bigdatatools.zeppelin.settings.ZeppelinConnectionData" />
+          <option name="groupId" value="ZeppelinConnections" />
+          <option name="innerId" value="Zeppelin connection@ZeppelinConnections@6212844478113964587" />
+          <option name="name" value="Zeppelin connection" />
+          <option name="pluginId" value="com.intellij.bigdatatools" />
+          <option name="port" value="0" />
+          <option name="uri" value="localhost:8080" />
+        </ExtendedConnectionData>
       </list>
     </option>
   </component>
