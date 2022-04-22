@@ -26,5 +26,10 @@
         <url>file://$USER_HOME$/Downloads/lib/redshift-jdbc42-2.0.0.4.jar</url>
       </library>
     </driver>
+    <driver id="com.dbschema.ZeppelinSparkJdbcDriver" name="Apache Zeppelin" driver-class="com.dbschema.ZeppelinSparkJdbcDriver">
+      <library>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/Zeppelin/zeppelin-jdbc-2.jar</url>
+      </library>
+    </driver>
   </component>
 </application>

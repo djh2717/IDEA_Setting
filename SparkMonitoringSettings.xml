@@ -1,0 +1,19 @@
+<application>
+  <component name="SparkMonitoringSettings">
+    <option name="configs">
+      <map>
+        <entry key="Spark monitoring connection@SparkMonitoringConnections@-7976355350832082363">
+          <value>
+            <SparkConfig>
+              <option name="selectedApplicationId" value="application_1650341272559_0009" />
+              <option name="selectedJobId" value="1" />
+              <option name="selectedPage" value="Jobs" />
+              <option name="selectedStageId" value="1" />
+            </SparkConfig>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="selectedConnectionId" value="Spark monitoring connection@SparkMonitoringConnections@-7976355350832082363" />
+  </component>
+</application>

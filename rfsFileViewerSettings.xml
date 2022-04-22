@@ -1,12 +1,5 @@
 <application>
   <component name="RfsFileViewerSettings">
-    <option name="tabsInfo">
-      <list>
-        <RfsFileViewerInfo>
-          <option name="driverId" value="Zeppelin connection@ZeppelinConnections@6212844478113964587" />
-        </RfsFileViewerInfo>
-      </list>
-    </option>
     <option name="visibleColumns">
       <map>
         <entry key="com.intellij.bigdatatools.zeppelin.settings.ZeppelinConnectionData">
