@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4911b73d-9eab-49e9-8f77-8f432e94e25d" name="jumpserver">
+        <fileTransfer accessType="SFTP" host="69.231.182.238" port="2222" sshConfigId="fe011ebe-4783-4fcf-bdf8-0fe8f4bc7430" sshConfig="jack.deng@69.231.182.238:2222 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
