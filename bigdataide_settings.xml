@@ -128,16 +128,16 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
-        <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/gmf_HR.csv" />
-        <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/mlp_HR.csv" />
-        <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/mlp_NDCG.csv" />
-        <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/mlp_pretrain_HR.csv" />
-        <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/mlp_pretrain_NDCG.csv" />
-        <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/gmf_NDCG.csv" />
-        <option value="Users/jiahao/Desktop/NCF/data/ml-1m.test.rating" />
-        <option value="Users/jiahao/Desktop/NCF/data/Tianchi_Test_uid_iid.csv" />
-        <option value="MY_A_uBWH1637911633980_itinerary_txt.txt/1637911633980-itinerary.txt" />
+        <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/amc_insights/test.csv" />
         <option value="__OpvWwsettings__xml.xml/settings-默认初始文件.xml" />
+        <option value="MY_A_uBWH1637911633980_itinerary_txt.txt/1637911633980-itinerary.txt" />
+        <option value="Users/jiahao/Desktop/NCF/data/Tianchi_Test_uid_iid.csv" />
+        <option value="Users/jiahao/Desktop/NCF/data/ml-1m.test.rating" />
+        <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/gmf_NDCG.csv" />
+        <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/mlp_pretrain_NDCG.csv" />
+        <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/mlp_pretrain_HR.csv" />
+        <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/mlp_NDCG.csv" />
+        <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/mlp_HR.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/66/hk9_v0q17rdgchv7j4ncptpr0000gn/T/HDFS-downloaded" />
