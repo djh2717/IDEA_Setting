@@ -1,5 +1,11 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="athena" driver-class="com.simba.athena.jdbc.Driver">
+      <artifact />
+      <library>
+        <url>file://$USER_HOME$/Desktop/AthenaJDBC42.jar</url>
+      </library>
+    </driver>
     <driver id="clickhouse">
       <artifact id="ClickHouse" name="ClickHouse" use="true" version="0.3.1" />
     </driver>
