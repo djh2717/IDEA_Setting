@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="402" />
     <option name="newTranslationDialogY" value="356" />
     <histories>
+      <item value="nano-of-second" />
+      <item value="Chrono Unit" />
       <item value="WORKFLOW ID VERIFICATION" />
       <item value="transform data from s 3" />
       <item value="translation data from s 3" />
@@ -51,12 +53,10 @@
       <item value="差值" />
       <item value="invariant" />
       <item value="hex" />
-      <item value="heapq" />
-      <item value="heapify" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="101" />
+        <entry key="CHINESE" value="103" />
         <entry key="ENGLISH" value="102" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
@@ -66,12 +66,12 @@
         <entry key="DUTCH" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="LATIN" value="2" />
-        <entry key="GREEK" value="2" />
+        <entry key="GREEK" value="3" />
         <entry key="IGBO" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652756458480" />
+    <option name="lastTrimTime" value="1653388603057" />
   </component>
 </application>
