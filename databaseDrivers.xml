@@ -12,7 +12,7 @@
         <url>file://$USER_HOME$/Downloads/lib/HiveJDBC4.jar</url>
       </library>
     </driver>
-    <driver id="mysql.8">
+    <driver id="mysql.8" driver-class="com.mysql.jdbc.Driver">
       <artifact />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
     </driver>
