@@ -128,6 +128,7 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/amc_insights/2022-06-02T21:21:15.952Z-sparkx_insight_branded_search.csv" />
         <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/crawler-collector/src/main/resources/2022-06-02T23:40:02.144Z-sparkx_insight_branded_search.csv" />
         <option value="Users/jiahao/Desktop/NCF/data/ml-1m.test.rating" />
         <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/gmf_NDCG.csv" />
@@ -137,7 +138,6 @@
         <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/mlp_HR.csv" />
         <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/amc_insights/amc_insights-sparkxrenogyus-sparkx_insight_optimal_frequency-2022-03.csv" />
         <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/amc_insights/2022-05-08T15:57:15.920Z-sparkx_insight_branded_search.csv" />
-        <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/amc_insights/2022-05-11T10:18:09.730Z-sparkx_insight_branded_search.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/66/hk9_v0q17rdgchv7j4ncptpr0000gn/T/HDFS-downloaded" />
