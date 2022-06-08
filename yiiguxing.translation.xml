@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="402" />
     <option name="newTranslationDialogY" value="356" />
     <histories>
+      <item value="计算" />
+      <item value="calculate" />
       <item value="num Partitions" />
       <item value="city Hash 64" />
       <item value="escape" />
@@ -51,13 +53,11 @@
       <item value="for Bulk Format" />
       <item value="Properties" />
       <item value="with Rolling Policy" />
-      <item value="with Bucket Assigner" />
-      <item value="set Parallelism" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="CHINESE" value="104" />
+        <entry key="ENGLISH" value="107" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
