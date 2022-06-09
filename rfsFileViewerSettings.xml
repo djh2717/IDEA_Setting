@@ -1,10 +1,20 @@
 <application>
   <component name="RfsFileViewerSettings">
+    <option name="showDetailsPanel" value="false" />
     <option name="visibleColumns">
       <map>
         <entry key="com.intellij.bigdatatools.zeppelin.settings.ZeppelinConnectionData">
           <value>
             <list />
+          </value>
+        </entry>
+        <entry key="org.jetbrains.hdfsplugin.hdfs.settings.S3ConnectionData">
+          <value>
+            <list>
+              <option value="type" />
+              <option value="size" />
+              <option value="modified" />
+            </list>
           </value>
         </entry>
       </map>
