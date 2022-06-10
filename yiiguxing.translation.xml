@@ -3,8 +3,8 @@
     <option name="newTranslationDialogX" value="402" />
     <option name="newTranslationDialogY" value="356" />
     <histories>
-      <item value="enforceSchema (default true): If it is set to true, the specified or inferred schema will be forcibly applied to datasource files, and headers in CSV files will be ignored. If the option is set to false, the schema will be validated against all headers in CSV files in the case when the header option is set to true. Field names in the schema and column names in CSV headers are checked by their positions taking into account spark.sql.caseSensitive. Though the default value is true, it is recommended to disable the enforceSchema option to avoid incorrect results." />
       <item value="escape" />
+      <item value="enforceSchema (default true): If it is set to true, the specified or inferred schema will be forcibly applied to datasource files, and headers in CSV files will be ignored. If the option is set to false, the schema will be validated against all headers in CSV files in the case when the header option is set to true. Field names in the schema and column names in CSV headers are checked by their positions taking into account spark.sql.caseSensitive. Though the default value is true, it is recommended to disable the enforceSchema option to avoid incorrect results." />
       <item value="计算" />
       <item value="calculate" />
       <item value="num Partitions" />
@@ -57,7 +57,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="105" />
-        <entry key="ENGLISH" value="107" />
+        <entry key="ENGLISH" value="108" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
