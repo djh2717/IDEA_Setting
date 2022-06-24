@@ -5,15 +5,6 @@
       <list>
         <RfsFileViewerInfo>
           <option name="driverId" value="AWS S3@S3ConnectionGroup@-8665574784330293717" />
-          <option name="pathElements">
-            <list>
-              <option value="xray-hive-dbs" />
-              <option value="saas_amazon" />
-            </list>
-          </option>
-        </RfsFileViewerInfo>
-        <RfsFileViewerInfo>
-          <option name="driverId" value="AWS S3@S3ConnectionGroup@-8665574784330293717" />
         </RfsFileViewerInfo>
       </list>
     </option>
