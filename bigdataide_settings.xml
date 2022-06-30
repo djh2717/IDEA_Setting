@@ -172,7 +172,7 @@
           <option name="name" value="Kafka-Test" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
           <option name="port" value="-1" />
-          <option name="uri" value="161.189.223.231:39333" />
+          <option name="uri" value="16.162.166.79:49153" />
         </ExtendedConnectionData>
       </list>
     </option>
