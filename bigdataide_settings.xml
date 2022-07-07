@@ -180,6 +180,7 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/amc_insights/2022-07-06T05:03:31.914Z-sparkx_insight_path_to_conversion.csv" />
         <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/amc_insights/2022-07-06T03:45:45.867Z-sparkx_insight_path_to_conversion.csv" />
         <option value="Lm__C_8_y__uam_spider_keyword_csv_0.data.csv/am_spider_keyword.csv(downloaded)" />
         <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/amc_insights/2022-05-08T15:57:15.920Z-sparkx_insight_branded_search.csv" />
@@ -189,7 +190,6 @@
         <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/mlp_pretrain_HR.csv" />
         <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/mlp_pretrain_NDCG.csv" />
         <option value="Users/jiahao/Desktop/neural-collaborative-filtering-master/res/data/gmf_NDCG.csv" />
-        <option value="Users/jiahao/Desktop/NCF/data/ml-1m.test.rating" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/66/hk9_v0q17rdgchv7j4ncptpr0000gn/T/HDFS-downloaded" />
