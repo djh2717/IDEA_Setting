@@ -1,11 +1,35 @@
 <application>
   <component name="RfsFileViewerSettings">
     <option name="showDetailsPanel" value="false" />
+    <option name="tabsInfo">
+      <list>
+        <RfsFileViewerInfo>
+          <option name="driverId" value="HDFS@HdfsJavaConnectionGroup@-4333052799834361113" />
+          <option name="pathElements">
+            <list>
+              <option value="hudi_warehouse" />
+              <option value="dim_user_hudi" />
+            </list>
+          </option>
+        </RfsFileViewerInfo>
+      </list>
+    </option>
     <option name="visibleColumns">
       <map>
         <entry key="com.intellij.bigdatatools.zeppelin.settings.ZeppelinConnectionData">
           <value>
             <list />
+          </value>
+        </entry>
+        <entry key="org.jetbrains.hdfsplugin.hdfs.settings.HdfsJavaConnectionData">
+          <value>
+            <list>
+              <option value="type" />
+              <option value="modified" />
+              <option value="size" />
+              <option value="OWNER" />
+              <option value="PERMISSION" />
+            </list>
           </value>
         </entry>
         <entry key="org.jetbrains.hdfsplugin.hdfs.settings.S3ConnectionData">
