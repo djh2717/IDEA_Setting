@@ -1,19 +1,6 @@
 <application>
   <component name="RfsFileViewerSettings">
     <option name="showDetailsPanel" value="false" />
-    <option name="tabsInfo">
-      <list>
-        <RfsFileViewerInfo>
-          <option name="driverId" value="HDFS@HdfsJavaConnectionGroup@-4333052799834361113" />
-          <option name="pathElements">
-            <list>
-              <option value="hudi_warehouse" />
-              <option value="dim_user_hudi" />
-            </list>
-          </option>
-        </RfsFileViewerInfo>
-      </list>
-    </option>
     <option name="visibleColumns">
       <map>
         <entry key="com.intellij.bigdatatools.zeppelin.settings.ZeppelinConnectionData">
