@@ -4,7 +4,7 @@
     <property name="created">2021-04-16T16:30:33</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2022-07-13T10:11:49</property>
+    <property name="modified">2022-07-14T10:11:08</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -153,8 +153,8 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="APACHE_CONFIG.ARG_LEXEM">
       <value>
         <option name="FOREGROUND" value="98c379" />
@@ -1055,11 +1055,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_CODE">
       <value />
     </option>
-    <option name="HTML_ENTITY_REFERENCE" baseAttributes="" />
+    <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
@@ -2914,10 +2914,10 @@
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
-    <option name="PROPERTIES.KEY" baseAttributes="" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -3521,7 +3521,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="59626f" />
@@ -3609,7 +3609,7 @@
         <option name="FOREGROUND" value="c7c8f5" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="ffeb95" />
@@ -3664,15 +3664,15 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME" baseAttributes="" />
-    <option name="XML_ENTITY_REFERENCE" baseAttributes="" />
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="a6b2c0" />
       </value>
     </option>
-    <option name="XML_TAG_DATA" baseAttributes="" />
+    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e06c75" />
