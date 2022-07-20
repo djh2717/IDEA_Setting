@@ -8,10 +8,9 @@
           <option name="pathElements">
             <list>
               <option value="xray-hive-dbs" />
-              <option value="xplatform_spider" />
-              <option value="amazon_spider_ods_asin_keyword" />
+              <option value="xmars_recommendation" />
+              <option value="sd_targeting_recommendation_asin" />
               <option value="dt=2022-07-20" />
-              <option value="hh=17" />
             </list>
           </option>
         </RfsFileViewerInfo>
