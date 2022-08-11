@@ -21,5 +21,6 @@
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="" value="true" />
   </component>
 </application>
