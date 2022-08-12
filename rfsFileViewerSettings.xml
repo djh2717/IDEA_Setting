@@ -14,6 +14,17 @@
             </list>
           </option>
         </RfsFileViewerInfo>
+        <RfsFileViewerInfo>
+          <option name="driverId" value="AWS S3@S3ConnectionGroup@-8665574784330293717" />
+          <option name="pathElements">
+            <list>
+              <option value="xray-hive-dbs" />
+              <option value="xray_dev" />
+              <option value="sd_targeting_recommendation_asin" />
+              <option value="dt=20220719" />
+            </list>
+          </option>
+        </RfsFileViewerInfo>
       </list>
     </option>
     <option name="visibleColumns">
