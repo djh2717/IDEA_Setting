@@ -8,9 +8,20 @@
           <option name="pathElements">
             <list>
               <option value="xray-hive-dbs" />
-              <option value="xray_dev" />
+              <option value="xmars_recommendation" />
               <option value="sd_targeting_recommendation_asin" />
               <option value="dt=2022-08-14" />
+            </list>
+          </option>
+        </RfsFileViewerInfo>
+        <RfsFileViewerInfo>
+          <option name="driverId" value="AWS S3@S3ConnectionGroup@-8665574784330293717" />
+          <option name="pathElements">
+            <list>
+              <option value="xray-hive-dbs" />
+              <option value="xmars_recommendation" />
+              <option value="sd_targeting_recommendation_asin" />
+              <option value="dt=2022-08-15" />
             </list>
           </option>
         </RfsFileViewerInfo>
