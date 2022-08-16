@@ -1,6 +1,22 @@
 <application>
   <component name="RfsFileViewerSettings">
     <option name="showDetailsPanel" value="false" />
+    <option name="tabsInfo">
+      <list>
+        <RfsFileViewerInfo>
+          <option name="driverId" value="AWS S3@S3ConnectionGroup@-8665574784330293717" />
+          <option name="pathElements">
+            <list>
+              <option value="xray-hive-dbs" />
+              <option value="amazon_seller_product" />
+              <option value="ods" />
+              <option value="amazon_ods_orders" />
+              <option value="2021-05-08" />
+            </list>
+          </option>
+        </RfsFileViewerInfo>
+      </list>
+    </option>
     <option name="visibleColumns">
       <map>
         <entry key="com.intellij.bigdatatools.zeppelin.settings.ZeppelinConnectionData">
