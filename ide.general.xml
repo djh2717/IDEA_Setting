@@ -22,5 +22,6 @@
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="" value="true" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
   </component>
 </application>
