@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="402" />
     <option name="newTranslationDialogY" value="356" />
     <histories>
+      <item value="INVOICEUNCONFIRMED" />
       <item value="sqlalchemy" />
       <item value="eviction" />
       <item value="AUXILIARY" />
@@ -52,12 +53,11 @@
       <item value="gradient" />
       <item value="计算gradient" />
       <item value="Cross Entropy Loss" />
-      <item value="dropout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="118" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="123" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
@@ -73,7 +73,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1657184266951" />
+    <option name="lastTrimTime" value="1660706571245" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
