@@ -97,6 +97,7 @@
       <mapping ext="5" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="edges" type="PLAIN_TEXT" />
+      <mapping ext="module" type="PLAIN_TEXT" />
       <mapping ext="gzip" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
