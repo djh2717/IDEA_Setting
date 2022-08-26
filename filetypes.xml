@@ -101,6 +101,7 @@
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="ty" type="PLAIN_TEXT" />
       <mapping ext="negative" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
