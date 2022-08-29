@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="402" />
     <option name="newTranslationDialogY" value="356" />
     <histories>
+      <item value="Uncontrolled Recursion vulnerability with medium severity found" />
+      <item value="shade" />
       <item value="bias" />
       <item value="Flatten" />
       <item value="INVOICEUNCONFIRMED" />
@@ -51,13 +53,11 @@
       <item value="wait Until Lease Is Revoked" />
       <item value="Called when resuming execution after a failure and waits until the lease of the file we are resuming is free. The lease of the file we are resuming writingcommitting to may still belong to the process that failed previously and whose state we are recovering. Params: path – The path to the file we want to resume writing to." />
       <item value="nll loss" />
-      <item value="evaluation" />
-      <item value="gradient" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="123" />
+        <entry key="ENGLISH" value="125" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
