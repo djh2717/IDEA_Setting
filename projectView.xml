@@ -3,5 +3,6 @@
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="compactDirectories" value="true" />
+    <option name="showExcludedFiles" value="false" />
   </component>
 </application>
