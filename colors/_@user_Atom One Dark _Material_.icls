@@ -4,7 +4,7 @@
     <property name="created">2021-04-16T16:30:33</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2022-08-29T09:56:35</property>
+    <property name="modified">2022-09-06T18:22:25</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -451,9 +451,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
-    <option name="Class" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="a6b2c0" />
@@ -919,23 +919,23 @@
         <option name="FOREGROUND" value="e5c17c" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="" />
-    <option name="HAML_FILTER" baseAttributes="" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
+    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
+    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="61afef" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="" />
-    <option name="HAML_RUBY_START" baseAttributes="" />
-    <option name="HAML_TAG" baseAttributes="" />
+    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HAML_TAG" baseAttributes="TEXT" />
     <option name="HAML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="" />
+    <option name="HAML_TEXT" baseAttributes="TEXT" />
     <option name="HAML_XHTML">
       <value>
         <option name="FOREGROUND" value="56b6c2" />
@@ -1300,7 +1300,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="3a3f4b" />
@@ -2994,14 +2994,14 @@
         <option name="FOREGROUND" value="57b6c2" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="" />
-    <option name="REGEXP.BRACKETS" baseAttributes="" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.META" baseAttributes="" />
-    <option name="REGEXP.PARENTHS" baseAttributes="" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REGEXP_MATCHED_GROUPS">
       <value>
         <option name="BACKGROUND" value="6b727d" />
@@ -3536,7 +3536,7 @@
     </option>
     <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
-    <option name="Static method access" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -3695,7 +3695,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="f07178" />
