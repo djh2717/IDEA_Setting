@@ -8,6 +8,15 @@
             <list />
           </value>
         </entry>
+        <entry key="com.jetbrains.bigdatatools.rfs.settings.local.RfsLocalConnectionData">
+          <value>
+            <list>
+              <option value="type" />
+              <option value="modified" />
+              <option value="size" />
+            </list>
+          </value>
+        </entry>
         <entry key="org.jetbrains.hdfsplugin.hdfs.settings.HdfsJavaConnectionData">
           <value>
             <list>
