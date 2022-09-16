@@ -3,6 +3,9 @@
     <driver id="athena" driver-class="com.simba.athena.jdbc.Driver">
       <artifact id="Athena" name="Athena" use="true" version="2.0.16" />
     </driver>
+    <driver id="presto">
+      <artifact id="Presto" name="Presto" use="true" version="0.245.1" />
+    </driver>
     <driver id="clickhouse">
       <artifact id="ClickHouse" name="ClickHouse" use="true" version="0.3.2.11" />
     </driver>
