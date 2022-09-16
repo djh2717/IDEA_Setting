@@ -4,7 +4,7 @@
       <artifact id="Athena" name="Athena" use="true" version="2.0.16" />
     </driver>
     <driver id="clickhouse">
-      <artifact id="ClickHouse" name="ClickHouse" use="true" version="0.3.1" />
+      <artifact id="ClickHouse" name="ClickHouse" use="true" version="0.3.2.11" />
     </driver>
     <driver id="hive">
       <artifact id="Hive" name="Hive" channel="fixed" rolling="false" use="true" version="3.1.2" />
