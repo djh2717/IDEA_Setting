@@ -6,6 +6,9 @@
     <driver id="presto">
       <artifact id="Presto" name="Presto" use="true" version="0.245.1" />
     </driver>
+    <driver id="trino">
+      <artifact id="Trino" name="Trino" use="true" version="351.0" />
+    </driver>
     <driver id="clickhouse">
       <artifact id="ClickHouse" name="ClickHouse" use="true" version="0.3.2.11" />
     </driver>
