@@ -1,6 +1,24 @@
 <application>
   <component name="RfsFileViewerSettings">
     <option name="showDetailsPanel" value="false" />
+    <option name="tabsInfo">
+      <list>
+        <RfsFileViewerInfo>
+          <option name="driverId" value="AWS S3@S3ConnectionGroup@-8665574784330293717" />
+          <option name="pathElements">
+            <list>
+              <option value="xray-etl" />
+              <option value="flink-jobs-state" />
+              <option value="marketing-stream" />
+              <option value="prod" />
+              <option value="checkpoint" />
+              <option value="391a751e17a1c9f0eb47df732a839e8a" />
+              <option value="chk-9592" />
+            </list>
+          </option>
+        </RfsFileViewerInfo>
+      </list>
+    </option>
     <option name="visibleColumns">
       <map>
         <entry key="com.intellij.bigdatatools.zeppelin.settings.ZeppelinConnectionData">
