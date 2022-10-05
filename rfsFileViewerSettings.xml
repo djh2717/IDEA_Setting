@@ -7,10 +7,11 @@
           <option name="driverId" value="AWS S3@S3ConnectionGroup@-8665574784330293717" />
           <option name="pathElements">
             <list>
-              <option value="xray-hive-dbs" />
-              <option value="xmars_recommendation" />
-              <option value="sd_targeting_recommendation_asin" />
-              <option value="dt=2022-09-29" />
+              <option value="xmars-spider" />
+              <option value="prod" />
+              <option value="am_spider_keyword" />
+              <option value="2022-10-05" />
+              <option value="04" />
             </list>
           </option>
         </RfsFileViewerInfo>
@@ -18,10 +19,11 @@
           <option name="driverId" value="AWS S3@S3ConnectionGroup@-8665574784330293717" />
           <option name="pathElements">
             <list>
-              <option value="xray-hive-dbs" />
-              <option value="xmars_recommendation" />
-              <option value="sd_targeting_recommendation_asin" />
-              <option value="dt=2022-09-28" />
+              <option value="xmars-spider" />
+              <option value="prod" />
+              <option value="am_spider_keyword" />
+              <option value="2022-10-05" />
+              <option value="03" />
             </list>
           </option>
         </RfsFileViewerInfo>
