@@ -148,6 +148,10 @@
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="Jdbc.OpenConsole.Any">
+    <keyboard-shortcut first-keystroke="shift meta f10" />
+    <keyboard-shortcut first-keystroke="shift meta 2" />
+  </action>
   <action id="Jdbc.OpenConsole.New" />
   <action id="Jdbc.OpenEditor.Data">
     <keyboard-shortcut first-keystroke="f4" />
