@@ -195,6 +195,8 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/crawler-collector/docs/2022-10-25T06:32:26.078Z-sparkx_insight_branded_search.csv" />
+        <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/crawler-collector/docs/2022-10-25T06:32:13.197Z-sparkx_insight_branded_search.csv" />
         <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/amc_insights/2022-08-16T03:51:27.217Z-sparkx_insight_branded_search.csv" />
         <option value="_7____part_f7b08d44_6a4b_45ee_8ada_87f36c58c839_0_58./part-f7b08d44-6a4b-45ee-8ada-87f36c58c839-0-58" />
         <option value="f______part_5d13a406_6457_4e5f_923a_4aea3cfa864a_0_61./part-5d13a406-6457-4e5f-923a-4aea3cfa864a-0-61" />
@@ -203,8 +205,6 @@
         <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/amc_insights/2022-07-06T03:45:45.867Z-sparkx_insight_path_to_conversion.csv" />
         <option value="Lm__C_8_y__uam_spider_keyword_csv_0.data.csv/am_spider_keyword.csv(downloaded)" />
         <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/amc_insights/2022-05-08T15:57:15.920Z-sparkx_insight_branded_search.csv" />
-        <option value="Z1Zi__xka_feed_nrr_parquet_0.data.csv/feed_nrr.parquet(downloaded)" />
-        <option value="pb_yR_9j4XTlki7Edo_csv_0.data.csv/4XTlki7Edo.csv(downloaded)" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/66/hk9_v0q17rdgchv7j4ncptpr0000gn/T/HDFS-downloaded" />
