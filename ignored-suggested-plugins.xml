@@ -3,6 +3,9 @@
     <option name="pluginIds">
       <list>
         <option value="com.intellij.guice" />
+        <option value="aws.toolkit" />
+        <option value="com.intellij.kubernetes" />
+        <option value="org.dynamodb4idea" />
       </list>
     </option>
   </component>
