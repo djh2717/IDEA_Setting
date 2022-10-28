@@ -177,16 +177,33 @@
         <ExtendedConnectionData>
           <option name="extended">
             <map>
-              <entry key="address" value="rO0ABXQAFmhkZnM6Ly84LjIxOS43Ny40OjgwMjA=" />
-              <entry key="authenticationType" value="rO0ABXQADEV4cGxpY2l0IHVyaQ==" />
-              <entry key="rootPath" value="rO0ABXQABi4uLy4uLw==" />
+              <entry key="activeAuthenticationType" value="rO0ABXQAIkV4cGxpY2l0IGFjY2VzcyBrZXkgYW5kIHNlY3JldCBrZXk=" />
+              <entry key="bucket" value="rO0ABXQAAA==" />
+              <entry key="bucketFilter" value="rO0ABXQAAA==" />
+              <entry key="bucketFilterType" value="rO0ABX5yAEJvcmcuY29tLmpldGJyYWlucy5iaWdkYXRhdG9vbHMuZmlsZXN0b3JhZ2UuY29tbW9uLkJ1Y2tldEZpbHRlclR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDT05UQUlOUw==" />
+              <entry key="bucketName" value="rO0ABXQAAA==" />
+              <entry key="isBucketSourceCustom" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="isBucketSourceFromWorkspace" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
+              <entry key="isDisableSocketProxy" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="isMultiBucketSupport" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
+              <entry key="isPreemptiveBasicProxyAuth" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="nonProxyHosts" value="rO0ABXQAAA==" />
+              <entry key="profileCredentialsPath" value="rO0ABXQAHi9Vc2Vycy9qaWFoYW8vLm9zcy9jcmVkZW50aWFscw==" />
+              <entry key="profileName" value="rO0ABXQAB2RlZmF1bHQ=" />
+              <entry key="proxyAuthEnabled" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
+              <entry key="proxyDomain" value="rO0ABXQAAA==" />
+              <entry key="proxyEnableType" value="rO0ABX5yADVjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLlByb3h5RW5hYmxlVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACERJU0FCTEVE" />
+              <entry key="proxyHost" value="rO0ABXQAAA==" />
+              <entry key="proxyPort" value="rO0ABXNyABFqYXZhLmxhbmcuSW50ZWdlchLioKT3gYc4AgABSQAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAAABQ" />
+              <entry key="proxyWorkstation" value="rO0ABXQAAA==" />
+              <entry key="region" value="rO0ABXQAEm9zcy1hcC1zb3V0aGVhc3QtMQ==" />
               <entry key="tunnel" value="rO0ABXNyAEpjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLnR1bm5lbC5tb2RlbC5Db25uZWN0aW9uU3NoVHVubmVsSW5mb4g0ot7wzEpsAgAEWgAJaXNFbmFibGVkSQAKcmVtb3RlUG9ydEwACGNvbmZpZ0lkdAASTGphdmEvbGFuZy9TdHJpbmc7TAAKcmVtb3RlSG9zdHEAfgABeHAA/////3QAAHEAfgAD" />
             </map>
           </option>
-          <option name="fqn" value="org.jetbrains.hdfsplugin.hdfs.settings.HdfsJavaConnectionData" />
-          <option name="groupId" value="HdfsJavaConnectionGroup" />
-          <option name="innerId" value="HDFS@HdfsJavaConnectionGroup@6126867988695401236" />
-          <option name="name" value="HDFS" />
+          <option name="fqn" value="org.com.jetbrains.bigdatatools.alibaba.AlibabaConnectionData" />
+          <option name="groupId" value="AlibabaOssConnectionGroup" />
+          <option name="innerId" value="Alibaba OSS@AlibabaOssConnectionGroup@6010909009088714163" />
+          <option name="name" value="Alibaba OSS" />
           <option name="pluginId" value="com.intellij.bigdatatools" />
         </ExtendedConnectionData>
       </list>

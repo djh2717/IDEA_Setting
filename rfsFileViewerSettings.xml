@@ -1,6 +1,13 @@
 <application>
   <component name="RfsFileViewerSettings">
     <option name="showDetailsPanel" value="false" />
+    <option name="tabsInfo">
+      <list>
+        <RfsFileViewerInfo>
+          <option name="driverId" value="Alibaba OSS@AlibabaOssConnectionGroup@6010909009088714163" />
+        </RfsFileViewerInfo>
+      </list>
+    </option>
     <option name="visibleColumns">
       <map>
         <entry key="com.intellij.bigdatatools.zeppelin.settings.ZeppelinConnectionData">
@@ -9,6 +16,15 @@
           </value>
         </entry>
         <entry key="com.jetbrains.bigdatatools.rfs.settings.local.RfsLocalConnectionData">
+          <value>
+            <list>
+              <option value="type" />
+              <option value="modified" />
+              <option value="size" />
+            </list>
+          </value>
+        </entry>
+        <entry key="org.com.jetbrains.bigdatatools.alibaba.AlibabaConnectionData">
           <value>
             <list>
               <option value="type" />
