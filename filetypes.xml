@@ -86,6 +86,7 @@
       <mapping pattern="part-3-2" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="npz" type="PLAIN_TEXT" />
       <mapping ext="properies" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="lastupdated" type="PLAIN_TEXT" />
