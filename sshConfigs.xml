@@ -1,11 +1,8 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="10.0.6.93" id="a0505a88-235a-4f9b-a6ee-b456a30b6e24" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
-      <sshConfig authType="PASSWORD" host="172.16.30.103" id="889608b7-d65a-4a4d-8b9c-183edf2f4acd" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="172.16.30.112" id="8401b38e-6128-433d-93d2-ecf0678a70df" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="172.16.30.116" id="49c1d7ce-ae9c-4a85-9b5b-b6ab6c6bec26" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
-      <sshConfig authType="PASSWORD" host="69.231.182.238" id="fe011ebe-4783-4fcf-bdf8-0fe8f4bc7430" port="2222" nameFormat="DESCRIPTIVE" username="jack.deng" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="69.231.182.238" id="fe011ebe-4783-4fcf-bdf8-0fe8f4bc7430" port="2222" nameFormat="DESCRIPTIVE" username="jack.deng" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
