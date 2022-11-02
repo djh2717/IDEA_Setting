@@ -125,41 +125,6 @@
         <ExtendedConnectionData>
           <option name="extended">
             <map>
-              <entry key="activeAuthenticationType" value="rO0ABXQAIkV4cGxpY2l0IGFjY2VzcyBrZXkgYW5kIHNlY3JldCBrZXk=" />
-              <entry key="bucket" value="rO0ABXQAAA==" />
-              <entry key="bucketFilter" value="rO0ABXQAAA==" />
-              <entry key="bucketFilterType" value="rO0ABX5yAEJvcmcuY29tLmpldGJyYWlucy5iaWdkYXRhdG9vbHMuZmlsZXN0b3JhZ2UuY29tbW9uLkJ1Y2tldEZpbHRlclR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDT05UQUlOUw==" />
-              <entry key="bucketName" value="rO0ABXQAAA==" />
-              <entry key="customEndpoint" value="rO0ABXQAAA==" />
-              <entry key="customRegion" value="rO0ABXQAAA==" />
-              <entry key="isBucketSourceCustom" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
-              <entry key="isBucketSourceFromWorkspace" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
-              <entry key="isDisableSocketProxy" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
-              <entry key="isMultiBucketSupport" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
-              <entry key="isPreemptiveBasicProxyAuth" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
-              <entry key="nonProxyHosts" value="rO0ABXQAAA==" />
-              <entry key="profileCredentialsPath" value="rO0ABXQAHi9Vc2Vycy9qaWFoYW8vLmF3cy9jcmVkZW50aWFscw==" />
-              <entry key="profileName" value="rO0ABXQAB2RlZmF1bHQ=" />
-              <entry key="proxyAuthEnabled" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
-              <entry key="proxyDomain" value="rO0ABXQAAA==" />
-              <entry key="proxyEnableType" value="rO0ABX5yADVjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLlByb3h5RW5hYmxlVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACERJU0FCTEVE" />
-              <entry key="proxyHost" value="rO0ABXQAAA==" />
-              <entry key="proxyPort" value="rO0ABXNyABFqYXZhLmxhbmcuSW50ZWdlchLioKT3gYc4AgABSQAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAAABQ" />
-              <entry key="proxyWorkstation" value="rO0ABXQAAA==" />
-              <entry key="region" value="rO0ABXQACWFwLWVhc3QtMQ==" />
-              <entry key="tunnel" value="rO0ABXNyAEpjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLnR1bm5lbC5tb2RlbC5Db25uZWN0aW9uU3NoVHVubmVsSW5mb4g0ot7wzEpsAgAEWgAJaXNFbmFibGVkSQAKcmVtb3RlUG9ydEwACGNvbmZpZ0lkdAASTGphdmEvbGFuZy9TdHJpbmc7TAAKcmVtb3RlSG9zdHEAfgABeHAA/////3QAAHEAfgAD" />
-              <entry key="useCustomEndpoint" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
-            </map>
-          </option>
-          <option name="fqn" value="org.jetbrains.hdfsplugin.hdfs.settings.S3ConnectionData" />
-          <option name="groupId" value="S3ConnectionGroup" />
-          <option name="innerId" value="AWS S3@S3ConnectionGroup@-8665574784330293717" />
-          <option name="name" value="AWS S3" />
-          <option name="pluginId" value="com.intellij.bigdatatools" />
-        </ExtendedConnectionData>
-        <ExtendedConnectionData>
-          <option name="extended">
-            <map>
               <entry key="properties" value="rO0ABXQAAA==" />
               <entry key="propertyFilePath" value="rO0ABXQAAA==" />
               <entry key="propertySource" value="rO0ABX5yADhjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5rYWZrYS5yZnMuS2Fma2FQcm9wZXJ0eVNvdXJjZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABkRJUkVDVA==" />
@@ -174,44 +139,14 @@
           <option name="port" value="-1" />
           <option name="uri" value="16.162.166.79:49153" />
         </ExtendedConnectionData>
-        <ExtendedConnectionData>
-          <option name="extended">
-            <map>
-              <entry key="activeAuthenticationType" value="rO0ABXQAIkV4cGxpY2l0IGFjY2VzcyBrZXkgYW5kIHNlY3JldCBrZXk=" />
-              <entry key="bucket" value="rO0ABXQAAA==" />
-              <entry key="bucketFilter" value="rO0ABXQAAA==" />
-              <entry key="bucketFilterType" value="rO0ABX5yAEJvcmcuY29tLmpldGJyYWlucy5iaWdkYXRhdG9vbHMuZmlsZXN0b3JhZ2UuY29tbW9uLkJ1Y2tldEZpbHRlclR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDT05UQUlOUw==" />
-              <entry key="bucketName" value="rO0ABXQAAA==" />
-              <entry key="isBucketSourceCustom" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
-              <entry key="isBucketSourceFromWorkspace" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
-              <entry key="isDisableSocketProxy" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
-              <entry key="isMultiBucketSupport" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAE=" />
-              <entry key="isPreemptiveBasicProxyAuth" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
-              <entry key="nonProxyHosts" value="rO0ABXQAAA==" />
-              <entry key="profileCredentialsPath" value="rO0ABXQAHi9Vc2Vycy9qaWFoYW8vLm9zcy9jcmVkZW50aWFscw==" />
-              <entry key="profileName" value="rO0ABXQAB2RlZmF1bHQ=" />
-              <entry key="proxyAuthEnabled" value="rO0ABXNyABFqYXZhLmxhbmcuQm9vbGVhbs0gcoDVnPruAgABWgAFdmFsdWV4cAA=" />
-              <entry key="proxyDomain" value="rO0ABXQAAA==" />
-              <entry key="proxyEnableType" value="rO0ABX5yADVjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLlByb3h5RW5hYmxlVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACERJU0FCTEVE" />
-              <entry key="proxyHost" value="rO0ABXQAAA==" />
-              <entry key="proxyPort" value="rO0ABXNyABFqYXZhLmxhbmcuSW50ZWdlchLioKT3gYc4AgABSQAFdmFsdWV4cgAQamF2YS5sYW5nLk51bWJlcoaslR0LlOCLAgAAeHAAAABQ" />
-              <entry key="proxyWorkstation" value="rO0ABXQAAA==" />
-              <entry key="region" value="rO0ABXQAEm9zcy1hcC1zb3V0aGVhc3QtMQ==" />
-              <entry key="tunnel" value="rO0ABXNyAEpjb20uamV0YnJhaW5zLmJpZ2RhdGF0b29scy5jb25uZWN0aW9uLnR1bm5lbC5tb2RlbC5Db25uZWN0aW9uU3NoVHVubmVsSW5mb4g0ot7wzEpsAgAEWgAJaXNFbmFibGVkSQAKcmVtb3RlUG9ydEwACGNvbmZpZ0lkdAASTGphdmEvbGFuZy9TdHJpbmc7TAAKcmVtb3RlSG9zdHEAfgABeHAA/////3QAAHEAfgAD" />
-            </map>
-          </option>
-          <option name="fqn" value="org.com.jetbrains.bigdatatools.alibaba.AlibabaConnectionData" />
-          <option name="groupId" value="AlibabaOssConnectionGroup" />
-          <option name="innerId" value="Alibaba OSS@AlibabaOssConnectionGroup@6010909009088714163" />
-          <option name="name" value="Alibaba OSS" />
-          <option name="pluginId" value="com.intellij.bigdatatools" />
-        </ExtendedConnectionData>
       </list>
     </option>
   </component>
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="___s__Cc41870aa_3831_4b43_873d_f0279c959627_114_3_4_0_20220901163502109_parquet_0.data.csv/c41870aa-3831-4b43-873d-f0279c959627-114_3-4-0_20220901163502109.parquet(downloaded)" />
+        <option value="xtonR_V__hoodie_partition_metadata.hoodie_partition_metadata/.hoodie_partition_metadata" />
         <option value="____L_hoodie_properties.properties/hoodie.properties" />
         <option value="Lm__C_8_y__uam_spider_keyword_csv_0.data.csv/am_spider_keyword.csv(downloaded)" />
         <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/amc_insights/2022-07-06T03:45:45.867Z-sparkx_insight_path_to_conversion.csv" />
@@ -220,8 +155,6 @@
         <option value="f______part_5d13a406_6457_4e5f_923a_4aea3cfa864a_0_61./part-5d13a406-6457-4e5f-923a-4aea3cfa864a-0-61" />
         <option value="_7____part_f7b08d44_6a4b_45ee_8ada_87f36c58c839_0_58./part-f7b08d44-6a4b-45ee-8ada-87f36c58c839-0-58" />
         <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/amc_insights/2022-08-16T03:51:27.217Z-sparkx_insight_branded_search.csv" />
-        <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/crawler-collector/docs/2022-10-25T06:32:26.078Z-sparkx_insight_branded_search.csv" />
-        <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/crawler-collector/docs/2022-10-25T06:32:13.197Z-sparkx_insight_branded_search.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/66/hk9_v0q17rdgchv7j4ncptpr0000gn/T/HDFS-downloaded" />
