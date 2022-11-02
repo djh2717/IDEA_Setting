@@ -145,6 +145,7 @@
   <component name="RfsDownloadedStorageManager">
     <option name="fileList">
       <list>
+        <option value="_6bz__F__aba_2022_11_02_02_04_21_299223_parquet_0.data.csv/aba-2022-11-02 02:04:21.299223.parquet(downloaded)" />
         <option value="___s__Cc41870aa_3831_4b43_873d_f0279c959627_114_3_4_0_20220901163502109_parquet_0.data.csv/c41870aa-3831-4b43-873d-f0279c959627-114_3-4-0_20220901163502109.parquet(downloaded)" />
         <option value="xtonR_V__hoodie_partition_metadata.hoodie_partition_metadata/.hoodie_partition_metadata" />
         <option value="____L_hoodie_properties.properties/hoodie.properties" />
@@ -154,7 +155,6 @@
         <option value="___0_____flink_connector_clickhouse_1_13_2_SNAPSHOT_pom_lastUpdated.lastUpdated/flink-connector-clickhouse-1.13.2-SNAPSHOT.pom.lastUpdated" />
         <option value="f______part_5d13a406_6457_4e5f_923a_4aea3cfa864a_0_61./part-5d13a406-6457-4e5f-923a-4aea3cfa864a-0-61" />
         <option value="_7____part_f7b08d44_6a4b_45ee_8ada_87f36c58c839_0_58./part-f7b08d44-6a4b-45ee-8ada-87f36c58c839-0-58" />
-        <option value="Users/jiahao/Desktop/SparkX/code/x-ray/saas/amc_insights/2022-08-16T03:51:27.217Z-sparkx_insight_branded_search.csv" />
       </list>
     </option>
     <option name="mainDirPath" value="/private/var/folders/66/hk9_v0q17rdgchv7j4ncptpr0000gn/T/HDFS-downloaded" />
