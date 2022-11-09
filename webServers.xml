@@ -2,14 +2,14 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="4911b73d-9eab-49e9-8f77-8f432e94e25d" name="jumpserver">
-        <fileTransfer accessType="SFTP" host="10.10.201.74" port="2222" sshConfigId="9b34696b-ac5c-468f-80e8-629e7c22730e" sshConfig="jack.deng@10.10.201.74:2222 password">
+        <fileTransfer accessType="SFTP" host="69.231.182.238" port="2222" sshConfigId="fe011ebe-4783-4fcf-bdf8-0fe8f4bc7430" sshConfig="jack.deng@69.231.182.238:2222 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="1fed4974-2ba3-4293-a51e-710bed248eed" name="jumpserver-aliyun">
-        <fileTransfer accessType="SFTP" sshConfigId="9b34696b-ac5c-468f-80e8-629e7c22730e" sshConfig="jack.deng@10.10.201.74:2222 password">
+        <fileTransfer accessType="SFTP" host="10.10.201.74" port="2222" sshConfigId="9b34696b-ac5c-468f-80e8-629e7c22730e" sshConfig="jack.deng@10.10.201.74:2222 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
