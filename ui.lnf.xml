@@ -4,6 +4,7 @@
     <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="914" />
     <option name="SHOW_EDITOR_TOOLTIP" value="false" />
+    <option name="SHOW_STATUS_BAR" value="false" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
   </component>
 </application>
