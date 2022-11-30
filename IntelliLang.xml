@@ -306,11 +306,6 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("doesNotMatch").definedInClass("com.google.common.truth.StringSubject"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("matches").definedInClass("com.google.common.truth.StringSubject"))]]></place>
     </injection>
-    <injection language="SparkSQL" injector-id="java">
-      <display-name>TableEnvironment.executeSql (org.apache.flink.table.api)</display-name>
-      <single-file value="false" />
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("executeSql").withParameters("java.lang.String").definedInClass("org.apache.flink.table.api.TableEnvironment"))]]></place>
-    </injection>
     <injection language="HiveQL" injector-id="java">
       <display-name>TableEnvironment.sqlQuery (org.apache.flink.table.api)</display-name>
       <single-file value="true" />
