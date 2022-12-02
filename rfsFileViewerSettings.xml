@@ -1,22 +1,6 @@
 <application>
   <component name="RfsFileViewerSettings">
     <option name="showDetailsPanel" value="false" />
-    <option name="tabsInfo">
-      <list>
-        <RfsFileViewerInfo>
-          <option name="driverId" value="Alibaba OSS@AlibabaOssConnectionGroup@6010909009088714163" />
-          <option name="pathElements">
-            <list>
-              <option value="xray-dlf" />
-              <option value="default-catalog" />
-              <option value="amazon_seller_product" />
-              <option value="ods" />
-              <option value="amazon_ods_seller_asin" />
-            </list>
-          </option>
-        </RfsFileViewerInfo>
-      </list>
-    </option>
     <option name="visibleColumns">
       <map>
         <entry key="com.intellij.bigdatatools.zeppelin.settings.ZeppelinConnectionData">
