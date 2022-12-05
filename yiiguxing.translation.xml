@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="402" />
     <option name="newTranslationDialogY" value="356" />
     <histories>
+      <item value="1000" />
       <item value="status" />
       <item value="statu" />
       <item value="enforced" />
@@ -52,7 +53,6 @@
       <item value="test negative" />
       <item value="implementations" />
       <item value="execution delta" />
-      <item value="cursor" />
     </histories>
     <option name="languageScores">
       <map>
@@ -74,7 +74,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669606930734" />
+    <option name="lastTrimTime" value="1670222582676" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
